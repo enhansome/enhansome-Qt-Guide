@@ -1,0 +1,160 @@
+{
+  "items": [
+    {
+      "description": "Note: You can easily convert this markdown file to a PDF in VSCode using this handy extension Markdown PDF.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Qt Learning Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-01-04T22:26:46Z",
+            "owner": "mikeroyal",
+            "repo": "Qt-Guide",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Design Tools and Add-ons",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-01-04T22:26:46Z",
+            "owner": "mikeroyal",
+            "repo": "Qt-Guide",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Development Tools",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-01-04T22:26:46Z",
+            "owner": "mikeroyal",
+            "repo": "Qt-Guide",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Framework Essentials and Add-ons",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-01-04T22:26:46Z",
+            "owner": "mikeroyal",
+            "repo": "Qt-Guide",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Networking",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-01-04T22:26:46Z",
+            "owner": "mikeroyal",
+            "repo": "Qt-Guide",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Databases",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-01-04T22:26:46Z",
+            "owner": "mikeroyal",
+            "repo": "Qt-Guide",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KDE and the KDE Plasma Desktop",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-01-04T22:26:46Z",
+            "owner": "mikeroyal",
+            "repo": "Qt-Guide",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wayland Development",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-01-04T22:26:46Z",
+            "owner": "mikeroyal",
+            "repo": "Qt-Guide",
+            "stars": 140
+          }
+        }
+      ],
+      "title": "A guide covering the Qt programming language including the applications and tools that will make you a better and more efficient Qt developer."
+    },
+    {
+      "description": "Back to the Top\nQt Designer Studio is a set of UI design tools that can provide the look and feel of the UI from wireframe to final implementation with Qt's ready-made UI components. Designers can import UI design files from Adobe Photoshop, Sketch, Maya, MODO, or Blender to Qt Design Studio, which can turn them into code for your developers.\nQt Designer Studio. Source: Qt\nQt 3D Studio is a compositing tool where you import 3D models, images and other assets to create interactive presentations, UIs and applications.\nQt Designer is the Qt tool for designing and building graphical user interfaces (GUIs) with Qt Widgets.\nQt Shader Tools is a module that builds on the SPIR-V Open Source Ecosystem as described at the Khronos SPIR-V web site. For compiling into SPIR-V glslang is used, while translating and reflecting is done via SPIRV-Cross.\nQmlLive is a 3rd party tool that offers a QML runtime capable of rendering changes to the code in realtime. It avoids the need to rebuild the application after every code change and install it on the target device. You can also extend it to build a custom runtime that suits your needs.\nQt GUI is a module that provides classes for windowing system integration, event handling, OpenGL and OpenGL ES integration, 2D graphics, basic imaging, fonts and text.\nQt Quick 3D is a tool that provides a high-level API for creating 3D content and 3D user interfaces based on Qt Quick.\nQt 3D is a tool that provides functionality for near-realtime simulation systems with support for 2D and 3D rendering in both Qt C++ and Qt Quick applications.\nQt OpenGL is a module that contains convenience classes to make possible to combine code written in the OpenGL graphics API with both these user interface types in Qt.\nQt Safe Renderer is a module that provides a UI rendering component that can be used to render safety-critical items, such as warning indicators, in functional safety systems. Qt Safe Renderer separates the safety-critical rendering from the other parts of the system.\nQt Lottie Animation is a QML API for rendering graphics and animations that are exported in JSON format by the Bodymovin plugin for Adobe After Effects.\nQt Scalable Vector Graphics (SVG) is an XML-based language for describing two-dimensional vector graphics. Qt provides classes for rendering and displaying SVG drawings in widgets and on other paint devices.\nQt Charts is a module that provides a set of easy to use chart components. It uses the Qt Graphics View Framework, therefore charts can be easily integrated to modern user interfaces.\nQt Data Visualization is a module that provides a way to visualize data in 3D as bar, scatter, and surface graphs. It is especially useful for visualizing depth maps and large quantities of rapidly changing data, such as data received from multiple sensors.",
+      "items": [],
+      "title": "Design Tools and Add-ons"
+    },
+    {
+      "description": "Interfaces are networking communication points for your computer. Each interface is associated with a physical or virtual networking device. Typically, your server will have one configurable network interface for each Ethernet or wireless internet card you have. In addition, it will define a virtual network interface called the \"loopback\" or localhost interface. This is used as an interface to connect applications and processes on a single computer to other applications and processes. You can see this referenced as the \"lo\" interface in many tools.",
+      "items": [],
+      "title": "Interfaces"
+    },
+    {
+      "description": "Discover - KDE Community Wiki\nDiscover is a software package mangaer that manages software from multiple sources, including your operating system's software repository, Flatpak repos, the Snap store, or even AppImages from store.kde.org.\nBack to the Top",
+      "items": [],
+      "title": "KDE Plasma Discover Software Center"
+    },
+    {
+      "description": "Wayland is a protocol for a compositor to talk to its clients as well as a C library implementation of that protocol. The compositor can be a standalone display server running on Linux kernel modesetting and evdev input devices, an X application, or a wayland client itself.\nQtWayland is a Qt 5 module that wraps the functionality of Wayland. QtWayland is separated into a client and server side. The client side is the wayland platform plugin, and provides a way to run Qt applications as Wayland clients.\nQt Wayland Compositor\nQt Wayland Compositor Examples\nWayland Architecture\nWayland Documentation\nSotfware Toolkits that have Wayland support right now\nContribution instructions for Wayland\nContribution instructions for Weston\nReporting Wayland bugs\nReporting Weston bugs\nWSLG: X11 and Wayland Applications in Windows Subsystem for Linux(WSL2)\nWayland on ArchWiki\nSway on ArchWiki\nWayland on Ubuntu Wiki\nWayland on Debian Wiki\nThe Wayland Display Server on Fedora Docs\nWayland features on Fedora Project Wiki\nWayland on GNOME Wiki\nKWin/Wayland on KDE Community Wiki\nWayland Desktop Landscape on Gentoo Wiki\nWayland in Void Linux Handbook\nWayland on Enlightenment DE",
+      "items": [],
+      "title": "Wayland Learning Resources"
+    },
+    {
+      "description": "Weston is a lightweight and functional Wayland compositor.\nXWayland is an X Server running as a Wayland client(for backwards compatibility), allowing the Xorg server can be modified to use wayland input devices for input and forward either the root window or individual top-level windows as wayland surfaces.\nKWayland is a Qt-style API to interact with the wayland-client and wayland-server API.\nNVIDIA Wayland EGL External Platform library is a work-in-progress implementation of a EGL External Platform library to add client-side Wayland support to EGL on top of EGLDevice and EGLStream families of extensions.\nNVIDIA EGL External Platform Interface is a work-in-progress specification of the EGL External Platform interface for writing EGL platforms and their interactions with modern window systems on top of existing low-level EGL platform implementations. This keeps window system implementation specifics out of EGL drivers by using application-facing EGL functions.\nGTK is a free and open source cross-platform widget toolkit for creating graphical user interfaces developed by GNOME Project. It is one of the most popular toolkits for the Wayland and X11 windowing.\nSway is an i3-compatible Wayland compositor.\nwlroots is a modular Wayland compositor library.\nWayfireWM is a 3D Wayland compositor, inspired by Compiz and based on wlroots.\nSDDM is a modern display manager for X11 and Wayland aiming to be fast, simple and beautiful. It uses modern technologies like QtQuick, which in turn gives the designer the ability to create smooth, animated user interfaces.\nx11docker is an application that you allows to run graphical desktop applications (and entire desktops) in Docker Linux containers.\nMako is a lightweight notification daemon for Wayland. It also works on Sway.\nWayland-rs is a Rust implementation of the wayland protocol (client and server).",
+      "items": [],
+      "title": "Wayland Tools"
+    },
+    {
+      "description": "Distributed under the Creative Commons Attribution 4.0 International (CC BY 4.0) Public License.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T03:41:19.974Z",
+    "original_repository": "mikeroyal/Qt-Guide",
+    "original_repository_sha": "7a17212da6f07c46239ccc2390eb4b0f5abe8dae",
+    "enhanced_repository": "enhansome/enhansome-Qt-Guide",
+    "enhanced_repository_description": null,
+    "title": "Awesome Qt Learning Resources with stars"
+  }
+}
