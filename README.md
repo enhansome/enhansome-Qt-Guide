@@ -116,7 +116,7 @@
 
 [Qt Designer](https://doc.qt.io/qt-6/qtdesigner-manual.html) is the Qt tool for designing and building graphical user interfaces (GUIs) with [Qt Widgets](https://doc.qt.io/qt-6/qtwidgets-index.html).
 
-[Qt Shader Tools](https://doc.qt.io/qt-6/qtshadertools-index.html) is a module that builds on the SPIR-V Open Source Ecosystem as described at the [Khronos SPIR-V web site](https://www.khronos.org/spir/). For compiling into SPIR-V [glslang](https://github.com/KhronosGroup/glslang) ⭐ 3,562 | 🐛 407 | 🌐 C++ | 📅 2026-08-14 is used, while translating and reflecting is done via [SPIRV-Cross](https://github.com/KhronosGroup/SPIRV-Cross) ⭐ 2,486 | 🐛 150 | 🌐 GLSL | 📅 2026-07-31.
+[Qt Shader Tools](https://doc.qt.io/qt-6/qtshadertools-index.html) is a module that builds on the SPIR-V Open Source Ecosystem as described at the [Khronos SPIR-V web site](https://www.khronos.org/spir/). For compiling into SPIR-V [glslang](https://github.com/KhronosGroup/glslang) ⭐ 3,562 | 🐛 408 | 🌐 C++ | 📅 2026-08-14 is used, while translating and reflecting is done via [SPIRV-Cross](https://github.com/KhronosGroup/SPIRV-Cross) ⭐ 2,486 | 🐛 150 | 🌐 GLSL | 📅 2026-07-31.
 
 [QmlLive](https://doc.qt.io/qt-6/qtquick-tools-and-utilities.html#qmllive) is a 3rd party tool that offers a QML runtime capable of rendering changes to the code in realtime. It avoids the need to rebuild the application after every code change and install it on the target device. You can also extend it to build a custom runtime that suits your needs.
 
@@ -251,9 +251,9 @@
 
 [Shiboken](https://doc.qt.io/qtforpython/shiboken6/index.html) is a fundamental piece on the Qt for Python project that serves two purposes:
 
-* [Generator](https://doc.qt.io/qtforpython/shiboken6/shibokengenerator.html): Extract information from C or C++ headers and generate [CPython](https://github.com/python/cpython) ⭐ 74,321 | 🐛 9,485 | 🌐 Python | 📅 2026-08-14 code that allow to bring C or C++ projects to Python. This process uses a library called [ApiExtractor](https://doc.qt.io/qtforpython/shiboken6/typesystem.html) which internally uses [Clang](https://clang.llvm.org/).
+* [Generator](https://doc.qt.io/qtforpython/shiboken6/shibokengenerator.html): Extract information from C or C++ headers and generate [CPython](https://github.com/python/cpython) ⭐ 74,327 | 🐛 9,515 | 🌐 Python | 📅 2026-08-15 code that allow to bring C or C++ projects to Python. This process uses a library called [ApiExtractor](https://doc.qt.io/qtforpython/shiboken6/typesystem.html) which internally uses [Clang](https://clang.llvm.org/).
 
-* [Module](https://doc.qt.io/qtforpython/shiboken6/shibokenmodule.html): An utility Python module that exposed new Python types, functions to handle pointers, among other things, that is written in [CPython](https://github.com/python/cpython) ⭐ 74,321 | 🐛 9,485 | 🌐 Python | 📅 2026-08-14 and can use independently of the generator.
+* [Module](https://doc.qt.io/qtforpython/shiboken6/shibokenmodule.html): An utility Python module that exposed new Python types, functions to handle pointers, among other things, that is written in [CPython](https://github.com/python/cpython) ⭐ 74,327 | 🐛 9,515 | 🌐 Python | 📅 2026-08-15 and can use independently of the generator.
 
 ## Framework Essentials and Add-ons
 
@@ -352,7 +352,7 @@
 
 [cURL](https://curl.se/) is a computer software project providing a library and command-line tool for transferring data using various network protocols(HTTP, HTTPS, FTP, FTPS, SCP, SFTP, TFTP, DICT, TELNET, LDAP LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP or SMTPS). cURL is also used in cars, television sets, routers, printers, audio equipment, mobile phones, tablets, settop boxes, media players and is the Internet transfer engine for thousands of software applications in over ten billion installations.
 
-[cURL Fuzzer](https://github.com/curl/curl-fuzzer) ⭐ 100 | 🐛 18 | 🌐 C++ | 📅 2026-08-13 is a quality assurance testing for the curl project.
+[cURL Fuzzer](https://github.com/curl/curl-fuzzer) ⭐ 100 | 🐛 18 | 🌐 C++ | 📅 2026-08-15 is a quality assurance testing for the curl project.
 
 [DoH](https://github.com/curl/doh) ⭐ 431 | 🐛 6 | 🌐 C | 📅 2026-04-28 is a stand-alone application for DoH (DNS-over-HTTPS) name resolves and lookups.
 
@@ -364,9 +364,9 @@
 
 [Wireshark](https://www.wireshark.org/) is a very popular network protocol analyzer that is commonly used for network troubleshooting, analysis, and communications protocol development. Learn more about the other useful [Wireshark Tools](https://wiki.wireshark.org/Tools) available.
 
-[HTTPie](https://github.com/httpie/httpie) ⭐ 38,419 | 🐛 330 | 🌐 Python | 📅 2024-12-17 is a command-line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
+[HTTPie](https://github.com/httpie/httpie) ⭐ 38,425 | 🐛 330 | 🌐 Python | 📅 2024-12-17 is a command-line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
 
-[HTTPStat](https://github.com/reorx/httpstat) ⭐ 6,218 | 🐛 9 | 🌐 Python | 📅 2026-04-08 is a tool that visualizes curl statistics in a simple layout.
+[HTTPStat](https://github.com/reorx/httpstat) ⭐ 6,219 | 🐛 9 | 🌐 Python | 📅 2026-04-08 is a tool that visualizes curl statistics in a simple layout.
 
 [Wuzz](https://github.com/asciimoo/wuzz) ⭐ 10,717 | 🐛 42 | 🌐 Go | 📅 2026-08-04 is an interactive cli tool for HTTP inspection. It can be used to inspect/modify requests copied from the browser's network inspector with the "copy as cURL" feature.
 
@@ -488,7 +488,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 * SQL API layer
 * User interface layer
 
-[Netdata](https://github.com/netdata/netdata) ⭐ 80,183 | 🐛 390 | 🌐 Go | 📅 2026-08-15 is high-fidelity infrastructure monitoring and troubleshooting, real-time monitoring Agent collects thousands of metrics from systems, hardware, containers, and applications with zero configuration. It runs permanently on all your physical/virtual servers, containers, cloud deployments, and edge/IoT devices, and is perfectly safe to install on your systems mid-incident without any preparation.
+[Netdata](https://github.com/netdata/netdata) ⭐ 80,195 | 🐛 406 | 🌐 Go | 📅 2026-08-16 is high-fidelity infrastructure monitoring and troubleshooting, real-time monitoring Agent collects thousands of metrics from systems, hardware, containers, and applications with zero configuration. It runs permanently on all your physical/virtual servers, containers, cloud deployments, and edge/IoT devices, and is perfectly safe to install on your systems mid-incident without any preparation.
 
 [Azure Data Studio](https://github.com/Microsoft/azuredatastudio) ⚠️ Archived is an open source data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.
 
@@ -536,7 +536,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [IBM DB2](https://www.ibm.com/analytics/db2) is a collection of hybrid data management products offering a complete suite of AI-empowered capabilities designed to help you manage both structured and unstructured data on premises as well as in private and public cloud environments. Db2 is built on an intelligent common SQL engine designed for scalability and flexibility.
 
-[Atlas](https://github.com/Netflix/atlas) ⭐ 3,560 | 🐛 7 | 🌐 Scala | 📅 2026-08-13 is an in-memory dimensional [time series database](https://en.wikipedia.org/wiki/Time_series_database).
+[Atlas](https://github.com/Netflix/atlas) ⭐ 3,561 | 🐛 7 | 🌐 Scala | 📅 2026-08-13 is an in-memory dimensional [time series database](https://en.wikipedia.org/wiki/Time_series_database).
 
 [CouchbaseDB](https://www.couchbase.com/) is an open source distributed [multi-model NoSQL document-oriented database](https://en.wikipedia.org/wiki/Multi-model_database). It creates a key-value store with managed cache for sub-millisecond data operations, with purpose-built indexers for efficient queries and a powerful query engine for executing SQL queries.
 
@@ -673,13 +673,13 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [wlroots](https://github.com/swaywm/wlroots) ⚠️ Archived is a modular Wayland compositor library.
 
-[WayfireWM](https://github.com/WayfireWM/wayfire) ⭐ 3,035 | 🐛 111 | 🌐 C++ | 📅 2026-08-11 is a 3D Wayland compositor, inspired by [Compiz](https://launchpad.net/compiz) and based on [wlroots](https://github.com/swaywm/wlroots) ⚠️ Archived.
+[WayfireWM](https://github.com/WayfireWM/wayfire) ⭐ 3,036 | 🐛 112 | 🌐 C++ | 📅 2026-08-11 is a 3D Wayland compositor, inspired by [Compiz](https://launchpad.net/compiz) and based on [wlroots](https://github.com/swaywm/wlroots) ⚠️ Archived.
 
-[SDDM](https://github.com/sddm/sddm) ⭐ 2,329 | 🐛 754 | 🌐 C++ | 📅 2026-08-01 is a modern display manager for X11 and Wayland aiming to be fast, simple and beautiful. It uses modern technologies like QtQuick, which in turn gives the designer the ability to create smooth, animated user interfaces.
+[SDDM](https://github.com/sddm/sddm) ⭐ 2,331 | 🐛 753 | 🌐 C++ | 📅 2026-08-15 is a modern display manager for X11 and Wayland aiming to be fast, simple and beautiful. It uses modern technologies like QtQuick, which in turn gives the designer the ability to create smooth, animated user interfaces.
 
-[x11docker](https://github.com/mviereck/x11docker) ⭐ 6,299 | 🐛 30 | 🌐 Shell | 📅 2026-07-05 is an application that you allows to run graphical desktop applications (and entire desktops) in Docker Linux containers.
+[x11docker](https://github.com/mviereck/x11docker) ⭐ 6,300 | 🐛 30 | 🌐 Shell | 📅 2026-07-05 is an application that you allows to run graphical desktop applications (and entire desktops) in Docker Linux containers.
 
-[Mako](https://github.com/emersion/mako) ⭐ 3,221 | 🐛 134 | 🌐 C | 📅 2026-06-30 is a lightweight notification daemon for Wayland. It also works on [Sway](https://swaywm.org/).
+[Mako](https://github.com/emersion/mako) ⭐ 3,222 | 🐛 134 | 🌐 C | 📅 2026-06-30 is a lightweight notification daemon for Wayland. It also works on [Sway](https://swaywm.org/).
 
 [Wayland-rs](https://github.com/Smithay/wayland-rs) ⭐ 1,409 | 🐛 80 | 🌐 Rust | 📅 2026-08-14 is a Rust implementation of the wayland protocol (client and server).
 
@@ -693,4 +693,4 @@ Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
