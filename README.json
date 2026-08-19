@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "Note: You can easily convert this markdown file to a PDF in VSCode using this handy extension Markdown PDF.",
+      "description": "Note: You can easily convert this markdown file to a PDF in VSCode using this handy extension Markdown PDF.\nBack to the Top\nQt is a framework that allowers developeres to create modern UIs & applications for multiple screens accross multiple platforms such as Linux, Windows, macOS, Android, and other embedded systems.\nQt QML is a framework for developing applications and libraries with the QML language. It defines and implements the language and engine infrastructure, and provides an API to enable application developers to extend the QML language with custom types and integrate QML code with JavaScript and C++.\nQt Features\nQt marketplace\nQt for Python\nQt for WebAssembly\nTools for ActiveQt\nQt Design User Interfaces for Applications",
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 314692934,
             "language": "C++",
             "last_commit": "2024-01-04T22:26:46Z",
             "owner": "mikeroyal",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 314692934,
             "language": "C++",
             "last_commit": "2024-01-04T22:26:46Z",
             "owner": "mikeroyal",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 314692934,
             "language": "C++",
             "last_commit": "2024-01-04T22:26:46Z",
             "owner": "mikeroyal",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 314692934,
             "language": "C++",
             "last_commit": "2024-01-04T22:26:46Z",
             "owner": "mikeroyal",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 314692934,
             "language": "C++",
             "last_commit": "2024-01-04T22:26:46Z",
             "owner": "mikeroyal",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 314692934,
             "language": "C++",
             "last_commit": "2024-01-04T22:26:46Z",
             "owner": "mikeroyal",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 314692934,
             "language": "C++",
             "last_commit": "2024-01-04T22:26:46Z",
             "owner": "mikeroyal",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 314692934,
             "language": "C++",
             "last_commit": "2024-01-04T22:26:46Z",
             "owner": "mikeroyal",
@@ -119,39 +127,46 @@
       "title": "A guide covering the Qt programming language including the applications and tools that will make you a better and more efficient Qt developer."
     },
     {
-      "description": "Back to the Top\nQt Designer Studio is a set of UI design tools that can provide the look and feel of the UI from wireframe to final implementation with Qt's ready-made UI components. Designers can import UI design files from Adobe Photoshop, Sketch, Maya, MODO, or Blender to Qt Design Studio, which can turn them into code for your developers.\nQt Designer Studio. Source: Qt\nQt 3D Studio is a compositing tool where you import 3D models, images and other assets to create interactive presentations, UIs and applications.\nQt Designer is the Qt tool for designing and building graphical user interfaces (GUIs) with Qt Widgets.\nQt Shader Tools is a module that builds on the SPIR-V Open Source Ecosystem as described at the Khronos SPIR-V web site. For compiling into SPIR-V glslang is used, while translating and reflecting is done via SPIRV-Cross.\nQmlLive is a 3rd party tool that offers a QML runtime capable of rendering changes to the code in realtime. It avoids the need to rebuild the application after every code change and install it on the target device. You can also extend it to build a custom runtime that suits your needs.\nQt GUI is a module that provides classes for windowing system integration, event handling, OpenGL and OpenGL ES integration, 2D graphics, basic imaging, fonts and text.\nQt Quick 3D is a tool that provides a high-level API for creating 3D content and 3D user interfaces based on Qt Quick.\nQt 3D is a tool that provides functionality for near-realtime simulation systems with support for 2D and 3D rendering in both Qt C++ and Qt Quick applications.\nQt OpenGL is a module that contains convenience classes to make possible to combine code written in the OpenGL graphics API with both these user interface types in Qt.\nQt Safe Renderer is a module that provides a UI rendering component that can be used to render safety-critical items, such as warning indicators, in functional safety systems. Qt Safe Renderer separates the safety-critical rendering from the other parts of the system.\nQt Lottie Animation is a QML API for rendering graphics and animations that are exported in JSON format by the Bodymovin plugin for Adobe After Effects.\nQt Scalable Vector Graphics (SVG) is an XML-based language for describing two-dimensional vector graphics. Qt provides classes for rendering and displaying SVG drawings in widgets and on other paint devices.\nQt Charts is a module that provides a set of easy to use chart components. It uses the Qt Graphics View Framework, therefore charts can be easily integrated to modern user interfaces.\nQt Data Visualization is a module that provides a way to visualize data in 3D as bar, scatter, and surface graphs. It is especially useful for visualizing depth maps and large quantities of rapidly changing data, such as data received from multiple sensors.",
-      "items": [],
-      "title": "Design Tools and Add-ons"
-    },
-    {
-      "description": "Interfaces are networking communication points for your computer. Each interface is associated with a physical or virtual networking device. Typically, your server will have one configurable network interface for each Ethernet or wireless internet card you have. In addition, it will define a virtual network interface called the \"loopback\" or localhost interface. This is used as an interface to connect applications and processes on a single computer to other applications and processes. You can see this referenced as the \"lo\" interface in many tools.",
-      "items": [],
-      "title": "Interfaces"
-    },
-    {
-      "description": "Discover - KDE Community Wiki\nDiscover is a software package mangaer that manages software from multiple sources, including your operating system's software repository, Flatpak repos, the Snap store, or even AppImages from store.kde.org.\nBack to the Top",
-      "items": [],
-      "title": "KDE Plasma Discover Software Center"
-    },
-    {
-      "description": "Wayland is a protocol for a compositor to talk to its clients as well as a C library implementation of that protocol. The compositor can be a standalone display server running on Linux kernel modesetting and evdev input devices, an X application, or a wayland client itself.\nQtWayland is a Qt 5 module that wraps the functionality of Wayland. QtWayland is separated into a client and server side. The client side is the wayland platform plugin, and provides a way to run Qt applications as Wayland clients.\nQt Wayland Compositor\nQt Wayland Compositor Examples\nWayland Architecture\nWayland Documentation\nSotfware Toolkits that have Wayland support right now\nContribution instructions for Wayland\nContribution instructions for Weston\nReporting Wayland bugs\nReporting Weston bugs\nWSLG: X11 and Wayland Applications in Windows Subsystem for Linux(WSL2)\nWayland on ArchWiki\nSway on ArchWiki\nWayland on Ubuntu Wiki\nWayland on Debian Wiki\nThe Wayland Display Server on Fedora Docs\nWayland features on Fedora Project Wiki\nWayland on GNOME Wiki\nKWin/Wayland on KDE Community Wiki\nWayland Desktop Landscape on Gentoo Wiki\nWayland in Void Linux Handbook\nWayland on Enlightenment DE",
-      "items": [],
-      "title": "Wayland Learning Resources"
-    },
-    {
-      "description": "Weston is a lightweight and functional Wayland compositor.\nXWayland is an X Server running as a Wayland client(for backwards compatibility), allowing the Xorg server can be modified to use wayland input devices for input and forward either the root window or individual top-level windows as wayland surfaces.\nKWayland is a Qt-style API to interact with the wayland-client and wayland-server API.\nNVIDIA Wayland EGL External Platform library is a work-in-progress implementation of a EGL External Platform library to add client-side Wayland support to EGL on top of EGLDevice and EGLStream families of extensions.\nNVIDIA EGL External Platform Interface is a work-in-progress specification of the EGL External Platform interface for writing EGL platforms and their interactions with modern window systems on top of existing low-level EGL platform implementations. This keeps window system implementation specifics out of EGL drivers by using application-facing EGL functions.\nGTK is a free and open source cross-platform widget toolkit for creating graphical user interfaces developed by GNOME Project. It is one of the most popular toolkits for the Wayland and X11 windowing.\nSway is an i3-compatible Wayland compositor.\nwlroots is a modular Wayland compositor library.\nWayfireWM is a 3D Wayland compositor, inspired by Compiz and based on wlroots.\nSDDM is a modern display manager for X11 and Wayland aiming to be fast, simple and beautiful. It uses modern technologies like QtQuick, which in turn gives the designer the ability to create smooth, animated user interfaces.\nx11docker is an application that you allows to run graphical desktop applications (and entire desktops) in Docker Linux containers.\nMako is a lightweight notification daemon for Wayland. It also works on Sway.\nWayland-rs is a Rust implementation of the wayland protocol (client and server).",
-      "items": [],
-      "title": "Wayland Tools"
-    },
-    {
-      "description": "Distributed under the Creative Commons Attribution 4.0 International (CC BY 4.0) Public License.",
-      "items": [],
-      "title": "License"
+      "description": "Back to the Top\nQt Creator is a cross-platform, complete integrated development environment (IDE) for application developers to create applications for multiple desktop, embedded, and mobile device platforms, such as Android and iOS. It is available for Linux, macOS and Windows.\nQt Creator. Source: Qt\nQt VS Tools is the integration of the Qt development tools into Microsoft Visual Studio 2017 or later. This enables developers to use the standard Windows development environment without having to worry about Qt-related build steps or tools.\nCMake is a tool to simplify the build process for development projects across different platforms. CMake automatically generates build systems, such as Makefiles and Ninja files.\nQML profiler is a tool that enables you to get necessary diagnostic information, allowing you to analyze the application code for performance issues. For example, too much JavaScript in each frame, long-running C++ functions, and so on.\nQML debugger is a very useful utility that enables:\nPyQt is a set of Python v2 and v3 bindings for Qt and runs on all platforms supported by Qt including Windows, MacOS/X and Linux.\nPySide is a project that provides LGPL-licensed Python bindings for the Qt. It also includes complete toolchain for rapidly generating bindings for any Qt-based C++ class hierarchies.\nPyOtherSide is a Qt 5 QML Plugin that provides access to a Python 3 interpreter from QML.\nQml.Net is a cross-platform integration of Qml/QtQuick for .NET Core/.NET Framework/Mono. It is a binding that brings .NET types into JavaScript with full interoperability.\nDOtherside is a C language library for creating bindings for the Qt QML language\nQxOrm library is an Object Relational Mapping (ORM) library for C++/Qt developers.\nQtMongo is a Bindings for QML to MongoDB.\nQmlSql is a couple of wrapper classes that are for QSql.\nSqlite-editor-qtqml is a SQLite Editor written in Qt+QML.\nQML CVCamera is a QML wrapper for fast camera access using OpenCV. It works on desktop and Android.\nPot is a Raspberry Pi accelerated video/image rendering with Qt: custom QML components and QtMultimedia backend.\nQtJoysticks is a library allows your Qt application to read input from both real joysticks/gamepads (using SDL) and a virtual joystick (using the keyboard).\nQmlPedalboard is a Udev rule, a tiny Arduino program, a Qml Component, and a test Qml app to interface a pedal board with QML.\nQtFirebase is an effort to bring the Firebase C++ API to Qt + QML.\nGammaRay™ is a debugger that allows the user to observe behavior and data structures of Qt code inside their program live at runtime.\nDaggy is a server-less remote or local data aggregation and streaming utility.\nGitQlient is a multi-platform Git client written with Qt.\nIncredibuild is a plug-and-play solution that empowers Qt users to dramatically reduce their Qt applications build times.\nKDED is a central daemon of KDE workspaces running in the background and performs a number of small tasks that are built-in and others that run on demand.\nQaterial is a collection of Material Components to build faster UI using Qml.\nMini-QML is a minimal Qt deployment for Linux, Windows, macOS and WebAssembly.\nSquish is a well-known testing tool that automates UI testing by recording your actions or running scripts. Once the tests are setup, UI tests are a lot easier to run.\nSquish Coco is a complete code coverage tool chain for Tcl, QML, C# and C/C++ programs (including SystemC programs). It runs on macOS, Linux™ and Microsoft® Windows.\nSquish Test Center is a result server, or a central place where you can store all your test results.\nqmllint is a tool shipped with Qt, that verifies the syntatic validity of QML files. It also warns about some QML anti-patterns. If you want to disable a specific warning type, you can find the appropriate flag for doing so by passing --help on the command line.\nqmlformat is a tool that automatically formats QML files in accordance with the QML Coding Conventions.\nQt Quick Ultralite is a tool that brings the key graphical user interface features of Qt to resource-constrained embedded systems powered by microcontrollers (MCU). It provides a rich QML API set for building fluid GUIs, and an efficient graphics engine to render Qt Quick-based graphical user interfaces (GUI).\nQt Quick Ultralite Controls is an implementation of Qt Quick Controls that targets MCU devices.\nQt 5 Core Compat is a module that contains the Qt Core APIs which will be no longer supported in Qt 6 and therefore were removed from Qt 6. The module is provided to facilitate the transition to Qt 6.\nQt State Machine State Machine is a framework provides classes for creating and executing state graphs.\nNeptune 3 UI is a tool that provides a UI implementation for Qt in In-Vehicle Infotainment (IVI) systems. It demonstrates best practices for developing an Automotive UI with Qt Automotive Suite.\nQt for Android Automotive is a set of tools that integrates the Qt Framework, including the UI toolkit, with Android bindings, the Qt IF framework, and the Android Automotive bindings.\nSimulating Dynamic Systems is a Simulink connector to connect simulation to your UI. Simulink is a MATLAB-based graphical programming environment for modeling, simulating, and analyzing multi-domain dynamic systems.\nQt Sensors is an API that provides access to sensor hardware via QML and C++ interfaces. Currently the API is supported on Android, iOS, and Windows (MSVC).\nmakeqpf is a tool to generate pre-rendered fonts in QPF2 format for use on Embedded Linux.\nMeta-Object Compiler (MOC) is the program that handles Qt's C++ extensions.\nUser Interface Compiler (UIC) is a tool for the Qt Widgets module. The uic reads an XML format user interface definition (.ui) file as generated by Qt Designer and creates a corresponding C++ header file.\nResource Compiler (rcc) is a tool is used to embed resources into a Qt application during the build process. It works by generating a C++ source file containing data specified in a Qt resource (.qrc) file.\nQt D-Bus XML compiler (qdbusxml2cpp) is a tool that can be used to parse interface descriptions and produce static code representing those interfaces, which can then be used to make calls to remote objects or implement said interfaces.\nQt D-Bus Viewer is a tool that lets you introspect D-Bus objects and messages. It can choose between the system bus and the session bus. Click on any service on the list on the left side to see all the exported objects.\nQt Installer Framework is a set of tools and utilities to create installers for the supported desktop Qt platforms: Linux, Microsoft Windows, and macOS.\nQt Assistant is a tool for viewing on-line documentation in Qt help file format.\nWindows deployment tool (windeployqt) is a tool designed to automate the process of creating a deployable folder containing the Qt-related dependencies (libraries, QML imports, plugins, and translations) required to run the application from that folder. It creates an installation tree for Windows desktop applications, which can be easily bundled into an installation package.\nShiboken is a fundamental piece on the Qt for Python project that serves two purposes:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Generator",
+          "description": "Extract information from C or C++ headers and generate CPython code that allow to bring C or C++ projects to Python. This process uses a library called ApiExtractor which internally uses Clang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 81598961,
+            "language": "Python",
+            "last_commit": "2026-08-19T10:07:10Z",
+            "owner": "python",
+            "repo": "cpython",
+            "stars": 74407
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Module",
+          "description": "An utility Python module that exposed new Python types, functions to handle pointers, among other things, that is written in CPython and can use independently of the generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 81598961,
+            "language": "Python",
+            "last_commit": "2026-08-19T10:07:10Z",
+            "owner": "python",
+            "repo": "cpython",
+            "stars": 74407
+          }
+        }
+      ],
+      "title": "Development Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:41:30.107Z",
+    "last_updated": "2026-08-19T12:12:08.622Z",
     "original_repository": "mikeroyal/Qt-Guide",
+    "original_repository_id": 314692934,
     "original_repository_sha": "7a17212da6f07c46239ccc2390eb4b0f5abe8dae",
     "enhanced_repository": "enhansome/enhansome-Qt-Guide",
     "enhanced_repository_description": null,
