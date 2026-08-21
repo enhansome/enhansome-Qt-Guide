@@ -138,10 +138,10 @@
             "archived": false,
             "id": 81598961,
             "language": "Python",
-            "last_commit": "2026-08-20T01:55:18Z",
+            "last_commit": "2026-08-21T01:41:37Z",
             "owner": "python",
             "repo": "cpython",
-            "stars": 74410
+            "stars": 74453
           }
         },
         {
@@ -153,10 +153,10 @@
             "archived": false,
             "id": 81598961,
             "language": "Python",
-            "last_commit": "2026-08-20T01:55:18Z",
+            "last_commit": "2026-08-21T01:41:37Z",
             "owner": "python",
             "repo": "cpython",
-            "stars": 74410
+            "stars": 74453
           }
         }
       ],
@@ -164,7 +164,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T02:40:50.067Z",
+    "last_updated": "2026-08-21T02:47:20.697Z",
     "original_repository": "mikeroyal/Qt-Guide",
     "original_repository_id": 314692934,
     "original_repository_sha": "7a17212da6f07c46239ccc2390eb4b0f5abe8dae",
