@@ -339,10 +339,10 @@
             "archived": false,
             "id": 81598961,
             "language": "Python",
-            "last_commit": "2026-08-25T00:39:52Z",
+            "last_commit": "2026-08-25T05:42:12Z",
             "owner": "python",
             "repo": "cpython",
-            "stars": 74896
+            "stars": 74930
           }
         },
         {
@@ -354,10 +354,10 @@
             "archived": false,
             "id": 81598961,
             "language": "Python",
-            "last_commit": "2026-08-25T00:39:52Z",
+            "last_commit": "2026-08-25T05:42:12Z",
             "owner": "python",
             "repo": "cpython",
-            "stars": 74896
+            "stars": 74930
           }
         }
       ],
@@ -410,7 +410,7 @@
                 "last_commit": "2024-12-17T17:30:35Z",
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38448
+                "stars": 38449
               }
             },
             {
@@ -478,10 +478,10 @@
             "archived": false,
             "id": 10744183,
             "language": "Go",
-            "last_commit": "2026-08-25T00:11:11Z",
+            "last_commit": "2026-08-25T06:23:52Z",
             "owner": "netdata",
             "repo": "netdata",
-            "stars": 80282
+            "stars": 80285
           }
         },
         {
@@ -594,7 +594,7 @@
                 "last_commit": "2026-08-11T23:07:34Z",
                 "owner": "WayfireWM",
                 "repo": "wayfire",
-                "stars": 3039
+                "stars": 3040
               }
             },
             {
@@ -689,7 +689,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:42:48.180Z",
+    "last_updated": "2026-08-25T06:30:42.056Z",
     "original_repository": "mikeroyal/Qt-Guide",
     "original_repository_id": 314692934,
     "original_repository_sha": "7a17212da6f07c46239ccc2390eb4b0f5abe8dae",

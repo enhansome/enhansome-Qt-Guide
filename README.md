@@ -116,7 +116,7 @@
 
 [Qt Designer](https://doc.qt.io/qt-6/qtdesigner-manual.html) is the Qt tool for designing and building graphical user interfaces (GUIs) with [Qt Widgets](https://doc.qt.io/qt-6/qtwidgets-index.html).
 
-[Qt Shader Tools](https://doc.qt.io/qt-6/qtshadertools-index.html) is a module that builds on the SPIR-V Open Source Ecosystem as described at the [Khronos SPIR-V web site](https://www.khronos.org/spir/). For compiling into SPIR-V [glslang](https://github.com/KhronosGroup/glslang) ⭐ 3,567 | 🐛 402 | 🌐 C++ | 📅 2026-08-24 is used, while translating and reflecting is done via [SPIRV-Cross](https://github.com/KhronosGroup/SPIRV-Cross) ⭐ 2,492 | 🐛 152 | 🌐 GLSL | 📅 2026-07-31.
+[Qt Shader Tools](https://doc.qt.io/qt-6/qtshadertools-index.html) is a module that builds on the SPIR-V Open Source Ecosystem as described at the [Khronos SPIR-V web site](https://www.khronos.org/spir/). For compiling into SPIR-V [glslang](https://github.com/KhronosGroup/glslang) ⭐ 3,567 | 🐛 402 | 🌐 C++ | 📅 2026-08-24 is used, while translating and reflecting is done via [SPIRV-Cross](https://github.com/KhronosGroup/SPIRV-Cross) ⭐ 2,492 | 🐛 153 | 🌐 GLSL | 📅 2026-07-31.
 
 [QmlLive](https://doc.qt.io/qt-6/qtquick-tools-and-utilities.html#qmllive) is a 3rd party tool that offers a QML runtime capable of rendering changes to the code in realtime. It avoids the need to rebuild the application after every code change and install it on the target device. You can also extend it to build a custom runtime that suits your needs.
 
@@ -251,9 +251,9 @@
 
 [Shiboken](https://doc.qt.io/qtforpython/shiboken6/index.html) is a fundamental piece on the Qt for Python project that serves two purposes:
 
-* [Generator](https://doc.qt.io/qtforpython/shiboken6/shibokengenerator.html): Extract information from C or C++ headers and generate [CPython](https://github.com/python/cpython) ⭐ 74,896 | 🐛 9,584 | 🌐 Python | 📅 2026-08-25 code that allow to bring C or C++ projects to Python. This process uses a library called [ApiExtractor](https://doc.qt.io/qtforpython/shiboken6/typesystem.html) which internally uses [Clang](https://clang.llvm.org/).
+* [Generator](https://doc.qt.io/qtforpython/shiboken6/shibokengenerator.html): Extract information from C or C++ headers and generate [CPython](https://github.com/python/cpython) ⭐ 74,930 | 🐛 9,588 | 🌐 Python | 📅 2026-08-25 code that allow to bring C or C++ projects to Python. This process uses a library called [ApiExtractor](https://doc.qt.io/qtforpython/shiboken6/typesystem.html) which internally uses [Clang](https://clang.llvm.org/).
 
-* [Module](https://doc.qt.io/qtforpython/shiboken6/shibokenmodule.html): An utility Python module that exposed new Python types, functions to handle pointers, among other things, that is written in [CPython](https://github.com/python/cpython) ⭐ 74,896 | 🐛 9,584 | 🌐 Python | 📅 2026-08-25 and can use independently of the generator.
+* [Module](https://doc.qt.io/qtforpython/shiboken6/shibokenmodule.html): An utility Python module that exposed new Python types, functions to handle pointers, among other things, that is written in [CPython](https://github.com/python/cpython) ⭐ 74,930 | 🐛 9,588 | 🌐 Python | 📅 2026-08-25 and can use independently of the generator.
 
 ## Framework Essentials and Add-ons
 
@@ -364,7 +364,7 @@
 
 [Wireshark](https://www.wireshark.org/) is a very popular network protocol analyzer that is commonly used for network troubleshooting, analysis, and communications protocol development. Learn more about the other useful [Wireshark Tools](https://wiki.wireshark.org/Tools) available.
 
-[HTTPie](https://github.com/httpie/httpie) ⭐ 38,448 | 🐛 332 | 🌐 Python | 📅 2024-12-17 is a command-line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
+[HTTPie](https://github.com/httpie/httpie) ⭐ 38,449 | 🐛 332 | 🌐 Python | 📅 2024-12-17 is a command-line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
 
 [HTTPStat](https://github.com/reorx/httpstat) ⭐ 6,215 | 🐛 9 | 🌐 Python | 📅 2026-04-08 is a tool that visualizes curl statistics in a simple layout.
 
@@ -488,7 +488,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 * SQL API layer
 * User interface layer
 
-[Netdata](https://github.com/netdata/netdata) ⭐ 80,282 | 🐛 392 | 🌐 Go | 📅 2026-08-25 is high-fidelity infrastructure monitoring and troubleshooting, real-time monitoring Agent collects thousands of metrics from systems, hardware, containers, and applications with zero configuration. It runs permanently on all your physical/virtual servers, containers, cloud deployments, and edge/IoT devices, and is perfectly safe to install on your systems mid-incident without any preparation.
+[Netdata](https://github.com/netdata/netdata) ⭐ 80,285 | 🐛 390 | 🌐 Go | 📅 2026-08-25 is high-fidelity infrastructure monitoring and troubleshooting, real-time monitoring Agent collects thousands of metrics from systems, hardware, containers, and applications with zero configuration. It runs permanently on all your physical/virtual servers, containers, cloud deployments, and edge/IoT devices, and is perfectly safe to install on your systems mid-incident without any preparation.
 
 [Azure Data Studio](https://github.com/Microsoft/azuredatastudio) ⚠️ Archived is an open source data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.
 
@@ -673,7 +673,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [wlroots](https://github.com/swaywm/wlroots) ⚠️ Archived is a modular Wayland compositor library.
 
-[WayfireWM](https://github.com/WayfireWM/wayfire) ⭐ 3,039 | 🐛 115 | 🌐 C++ | 📅 2026-08-11 is a 3D Wayland compositor, inspired by [Compiz](https://launchpad.net/compiz) and based on [wlroots](https://github.com/swaywm/wlroots) ⚠️ Archived.
+[WayfireWM](https://github.com/WayfireWM/wayfire) ⭐ 3,040 | 🐛 115 | 🌐 C++ | 📅 2026-08-11 is a 3D Wayland compositor, inspired by [Compiz](https://launchpad.net/compiz) and based on [wlroots](https://github.com/swaywm/wlroots) ⚠️ Archived.
 
 [SDDM](https://github.com/sddm/sddm) ⭐ 2,339 | 🐛 751 | 🌐 C++ | 📅 2026-08-19 is a modern display manager for X11 and Wayland aiming to be fast, simple and beautiful. It uses modern technologies like QtQuick, which in turn gives the designer the ability to create smooth, animated user interfaces.
 
