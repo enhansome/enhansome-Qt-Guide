@@ -177,7 +177,7 @@
             "last_commit": "2025-04-02T20:53:46Z",
             "owner": "filcuc",
             "repo": "dotherside",
-            "stars": 227
+            "stars": 228
           }
         },
         {
@@ -339,10 +339,10 @@
             "archived": false,
             "id": 81598961,
             "language": "Python",
-            "last_commit": "2026-08-25T05:42:12Z",
+            "last_commit": "2026-08-26T01:35:50Z",
             "owner": "python",
             "repo": "cpython",
-            "stars": 74930
+            "stars": 74935
           }
         },
         {
@@ -354,10 +354,10 @@
             "archived": false,
             "id": 81598961,
             "language": "Python",
-            "last_commit": "2026-08-25T05:42:12Z",
+            "last_commit": "2026-08-26T01:35:50Z",
             "owner": "python",
             "repo": "cpython",
-            "stars": 74930
+            "stars": 74935
           }
         }
       ],
@@ -377,7 +377,7 @@
                 "archived": false,
                 "id": 104416990,
                 "language": "C++",
-                "last_commit": "2026-08-21T18:05:43Z",
+                "last_commit": "2026-08-25T12:45:54Z",
                 "owner": "curl",
                 "repo": "curl-fuzzer",
                 "stars": 100
@@ -410,7 +410,7 @@
                 "last_commit": "2024-12-17T17:30:35Z",
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38449
+                "stars": 38450
               }
             },
             {
@@ -425,7 +425,7 @@
                 "last_commit": "2026-04-08T10:04:34Z",
                 "owner": "reorx",
                 "repo": "httpstat",
-                "stars": 6215
+                "stars": 6216
               }
             },
             {
@@ -440,7 +440,7 @@
                 "last_commit": "2026-08-04T12:36:56Z",
                 "owner": "asciimoo",
                 "repo": "wuzz",
-                "stars": 10721
+                "stars": 10722
               }
             },
             {
@@ -478,10 +478,10 @@
             "archived": false,
             "id": 10744183,
             "language": "Go",
-            "last_commit": "2026-08-25T06:23:52Z",
+            "last_commit": "2026-08-26T00:11:42Z",
             "owner": "netdata",
             "repo": "netdata",
-            "stars": 80285
+            "stars": 80301
           }
         },
         {
@@ -496,7 +496,7 @@
             "last_commit": "2026-02-28T16:30:21Z",
             "owner": "microsoft",
             "repo": "azuredatastudio",
-            "stars": 7685
+            "stars": 7686
           }
         },
         {
@@ -508,10 +508,10 @@
             "archived": false,
             "id": 22631422,
             "language": "Scala",
-            "last_commit": "2026-08-23T22:21:05Z",
+            "last_commit": "2026-08-25T15:14:39Z",
             "owner": "Netflix",
             "repo": "atlas",
-            "stars": 3562
+            "stars": 3563
           }
         }
       ],
@@ -546,7 +546,7 @@
                 "archived": false,
                 "id": 76882500,
                 "language": "C",
-                "last_commit": "2026-01-06T20:32:46Z",
+                "last_commit": "2026-08-25T17:04:16Z",
                 "owner": "NVIDIA",
                 "repo": "egl-wayland",
                 "stars": 329
@@ -591,7 +591,7 @@
                 "archived": false,
                 "id": 53142971,
                 "language": "C++",
-                "last_commit": "2026-08-11T23:07:34Z",
+                "last_commit": "2026-08-25T23:34:38Z",
                 "owner": "WayfireWM",
                 "repo": "wayfire",
                 "stars": 3040
@@ -624,7 +624,7 @@
                 "last_commit": "2026-07-05T16:46:19Z",
                 "owner": "mviereck",
                 "repo": "x11docker",
-                "stars": 6302
+                "stars": 6303
               }
             },
             {
@@ -639,7 +639,7 @@
                 "last_commit": "2026-06-30T17:52:58Z",
                 "owner": "emersion",
                 "repo": "mako",
-                "stars": 3231
+                "stars": 3229
               }
             },
             {
@@ -651,7 +651,7 @@
                 "archived": false,
                 "id": 34106838,
                 "language": "Rust",
-                "last_commit": "2026-08-21T16:19:11Z",
+                "last_commit": "2026-08-25T21:16:44Z",
                 "owner": "Smithay",
                 "repo": "wayland-rs",
                 "stars": 1416
@@ -689,7 +689,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:30:42.056Z",
+    "last_updated": "2026-08-26T02:50:14.586Z",
     "original_repository": "mikeroyal/Qt-Guide",
     "original_repository_id": 314692934,
     "original_repository_sha": "7a17212da6f07c46239ccc2390eb4b0f5abe8dae",
