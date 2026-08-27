@@ -297,7 +297,7 @@
             "last_commit": "2022-11-28T16:12:34Z",
             "owner": "larpon",
             "repo": "QtFirebase",
-            "stars": 290
+            "stars": 291
           }
         },
         {
@@ -339,10 +339,10 @@
             "archived": false,
             "id": 81598961,
             "language": "Python",
-            "last_commit": "2026-08-26T01:35:50Z",
+            "last_commit": "2026-08-27T11:40:53Z",
             "owner": "python",
             "repo": "cpython",
-            "stars": 74935
+            "stars": 75011
           }
         },
         {
@@ -354,10 +354,10 @@
             "archived": false,
             "id": 81598961,
             "language": "Python",
-            "last_commit": "2026-08-26T01:35:50Z",
+            "last_commit": "2026-08-27T11:40:53Z",
             "owner": "python",
             "repo": "cpython",
-            "stars": 74935
+            "stars": 75011
           }
         }
       ],
@@ -377,7 +377,7 @@
                 "archived": false,
                 "id": 104416990,
                 "language": "C++",
-                "last_commit": "2026-08-25T12:45:54Z",
+                "last_commit": "2026-08-26T21:33:15Z",
                 "owner": "curl",
                 "repo": "curl-fuzzer",
                 "stars": 100
@@ -410,7 +410,7 @@
                 "last_commit": "2024-12-17T17:30:35Z",
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38450
+                "stars": 38460
               }
             },
             {
@@ -425,7 +425,7 @@
                 "last_commit": "2026-04-08T10:04:34Z",
                 "owner": "reorx",
                 "repo": "httpstat",
-                "stars": 6216
+                "stars": 6217
               }
             },
             {
@@ -478,10 +478,10 @@
             "archived": false,
             "id": 10744183,
             "language": "Go",
-            "last_commit": "2026-08-26T00:11:42Z",
+            "last_commit": "2026-08-27T11:27:02Z",
             "owner": "netdata",
             "repo": "netdata",
-            "stars": 80301
+            "stars": 80320
           }
         },
         {
@@ -508,10 +508,10 @@
             "archived": false,
             "id": 22631422,
             "language": "Scala",
-            "last_commit": "2026-08-25T15:14:39Z",
+            "last_commit": "2026-08-27T02:45:54Z",
             "owner": "Netflix",
             "repo": "atlas",
-            "stars": 3563
+            "stars": 3564
           }
         }
       ],
@@ -546,7 +546,7 @@
                 "archived": false,
                 "id": 76882500,
                 "language": "C",
-                "last_commit": "2026-08-25T17:04:16Z",
+                "last_commit": "2026-08-26T22:12:35Z",
                 "owner": "NVIDIA",
                 "repo": "egl-wayland",
                 "stars": 329
@@ -609,7 +609,7 @@
                 "last_commit": "2026-08-19T10:45:49Z",
                 "owner": "sddm",
                 "repo": "sddm",
-                "stars": 2339
+                "stars": 2335
               }
             },
             {
@@ -639,7 +639,7 @@
                 "last_commit": "2026-06-30T17:52:58Z",
                 "owner": "emersion",
                 "repo": "mako",
-                "stars": 3229
+                "stars": 3231
               }
             },
             {
@@ -654,7 +654,7 @@
                 "last_commit": "2026-08-25T21:16:44Z",
                 "owner": "Smithay",
                 "repo": "wayland-rs",
-                "stars": 1416
+                "stars": 1419
               }
             }
           ],
@@ -689,9 +689,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:50:14.586Z",
-    "original_repository": "mikeroyal/Qt-Guide",
-    "original_repository_id": 314692934,
+    "last_updated": "2026-08-27T12:01:00.823Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 314692934,
+      "language": "C++",
+      "last_commit": "2024-01-04T22:26:46Z",
+      "owner": "mikeroyal",
+      "repo": "Qt-Guide",
+      "stars": 140
+    },
     "original_repository_sha": "7a17212da6f07c46239ccc2390eb4b0f5abe8dae",
     "enhanced_repository": "enhansome/enhansome-Qt-Guide",
     "enhanced_repository_description": null,
