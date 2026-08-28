@@ -16,7 +16,8 @@
             "owner": "mikeroyal",
             "repo": "Qt-Guide",
             "stars": 140
-          }
+          },
+          "first_seen": "2026-08-28T13:18:11.765Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "mikeroyal",
             "repo": "Qt-Guide",
             "stars": 140
-          }
+          },
+          "first_seen": "2026-08-28T13:18:11.765Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "mikeroyal",
             "repo": "Qt-Guide",
             "stars": 140
-          }
+          },
+          "first_seen": "2026-08-28T13:18:11.765Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "mikeroyal",
             "repo": "Qt-Guide",
             "stars": 140
-          }
+          },
+          "first_seen": "2026-08-28T13:18:11.765Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "mikeroyal",
             "repo": "Qt-Guide",
             "stars": 140
-          }
+          },
+          "first_seen": "2026-08-28T13:18:11.765Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "mikeroyal",
             "repo": "Qt-Guide",
             "stars": 140
-          }
+          },
+          "first_seen": "2026-08-28T13:18:11.765Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "mikeroyal",
             "repo": "Qt-Guide",
             "stars": 140
-          }
+          },
+          "first_seen": "2026-08-28T13:18:11.765Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "mikeroyal",
             "repo": "Qt-Guide",
             "stars": 140
-          }
+          },
+          "first_seen": "2026-08-28T13:18:11.765Z"
         }
       ],
       "title": "A guide covering the Qt programming language including the applications and tools that will make you a better and more efficient Qt developer."
@@ -142,7 +150,8 @@
             "owner": "Furkanzmc",
             "repo": "QML-Coding-Guide",
             "stars": 609
-          }
+          },
+          "first_seen": "2026-08-28T13:18:11.765Z"
         }
       ],
       "title": "Qt Books and Manuals"
@@ -163,7 +172,8 @@
             "owner": "qmlnet",
             "repo": "qmlnet",
             "stars": 1412
-          }
+          },
+          "first_seen": "2026-08-28T13:18:11.765Z"
         },
         {
           "node_type": "item",
@@ -178,7 +188,8 @@
             "owner": "filcuc",
             "repo": "dotherside",
             "stars": 228
-          }
+          },
+          "first_seen": "2026-08-28T13:18:11.765Z"
         },
         {
           "node_type": "item",
@@ -193,7 +204,8 @@
             "owner": "manuels",
             "repo": "QtMongo",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T13:18:11.765Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "JosephMillsAtWork",
             "repo": "QmlSql",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T13:18:11.765Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "ndesai",
             "repo": "sqlite-editor-qtqml",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-28T13:18:11.765Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "chili-epfl",
             "repo": "qml-cvcamera",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T13:18:11.765Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "carlonluca",
             "repo": "pot",
             "stars": 179
-          }
+          },
+          "first_seen": "2026-08-28T13:18:11.765Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "alex-spataru",
             "repo": "QJoysticks",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-28T13:18:11.765Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "danieloneill",
             "repo": "QmlPedalboard",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T13:18:11.765Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "larpon",
             "repo": "QtFirebase",
             "stars": 291
-          }
+          },
+          "first_seen": "2026-08-28T13:18:11.765Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "OlivierLDff",
             "repo": "Qaterial",
             "stars": 361
-          }
+          },
+          "first_seen": "2026-08-28T13:18:11.765Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "patrickelectric",
             "repo": "mini-qml",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T13:18:11.765Z"
         },
         {
           "node_type": "item",
@@ -339,11 +360,12 @@
             "archived": false,
             "id": 81598961,
             "language": "Python",
-            "last_commit": "2026-08-27T11:40:53Z",
+            "last_commit": "2026-08-28T10:25:52Z",
             "owner": "python",
             "repo": "cpython",
-            "stars": 75011
-          }
+            "stars": 75024
+          },
+          "first_seen": "2026-08-28T13:18:11.765Z"
         },
         {
           "node_type": "item",
@@ -354,11 +376,12 @@
             "archived": false,
             "id": 81598961,
             "language": "Python",
-            "last_commit": "2026-08-27T11:40:53Z",
+            "last_commit": "2026-08-28T10:25:52Z",
             "owner": "python",
             "repo": "cpython",
-            "stars": 75011
-          }
+            "stars": 75024
+          },
+          "first_seen": "2026-08-28T13:18:11.765Z"
         }
       ],
       "title": "Development Tools"
@@ -377,11 +400,12 @@
                 "archived": false,
                 "id": 104416990,
                 "language": "C++",
-                "last_commit": "2026-08-26T21:33:15Z",
+                "last_commit": "2026-08-27T19:53:15Z",
                 "owner": "curl",
                 "repo": "curl-fuzzer",
                 "stars": 100
-              }
+              },
+              "first_seen": "2026-08-28T13:18:11.765Z"
             },
             {
               "node_type": "item",
@@ -396,7 +420,8 @@
                 "owner": "curl",
                 "repo": "doh",
                 "stars": 431
-              }
+              },
+              "first_seen": "2026-08-28T13:18:11.765Z"
             },
             {
               "node_type": "item",
@@ -410,8 +435,9 @@
                 "last_commit": "2024-12-17T17:30:35Z",
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38460
-              }
+                "stars": 38465
+              },
+              "first_seen": "2026-08-28T13:18:11.765Z"
             },
             {
               "node_type": "item",
@@ -425,8 +451,9 @@
                 "last_commit": "2026-04-08T10:04:34Z",
                 "owner": "reorx",
                 "repo": "httpstat",
-                "stars": 6217
-              }
+                "stars": 6218
+              },
+              "first_seen": "2026-08-28T13:18:11.765Z"
             },
             {
               "node_type": "item",
@@ -440,8 +467,9 @@
                 "last_commit": "2026-08-04T12:36:56Z",
                 "owner": "asciimoo",
                 "repo": "wuzz",
-                "stars": 10722
-              }
+                "stars": 10726
+              },
+              "first_seen": "2026-08-28T13:18:11.765Z"
             },
             {
               "node_type": "item",
@@ -455,8 +483,9 @@
                 "last_commit": "2026-08-13T10:17:56Z",
                 "owner": "vi",
                 "repo": "websocat",
-                "stars": 8673
-              }
+                "stars": 8675
+              },
+              "first_seen": "2026-08-28T13:18:11.765Z"
             }
           ],
           "description": "Qt Network Authorization is a tool that provides a set of APIs that enable Qt applications to obtain limited access to online accounts and HTTP services without exposing users' passwords.\ncURL is a computer software project providing a library and command-line tool for transferring data using various network protocols(HTTP, HTTPS, FTP, FTPS, SCP, SFTP, TFTP, DICT, TELNET, LDAP LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP or SMTPS). cURL is also used in cars, television sets, routers, printers, audio equipment, mobile phones, tablets, settop boxes, media players and is the Internet transfer engine for thousands of software applications in over ten billion installations.\nAuthelia is an open-source highly-available authentication server providing single sign-on capability and two-factor authentication to applications running behind NGINX.\nnginx(engine x) is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server, originally written by Igor Sysoev.\nProxmox Virtual Environment(VE) is a complete open-source platform for enterprise virtualization. It inlcudes a built-in web interface that you can easily manage VMs and containers, software-defined storage and networking, high-availability clustering, and multiple out-of-the-box tools on a single solution.\nWireshark is a very popular network protocol analyzer that is commonly used for network troubleshooting, analysis, and communications protocol development. Learn more about the other useful Wireshark Tools available.\nPackets have a header portion that contains information about the packet including the source and destination, timestamps, network hops. The main portion of a packet contains the actual data being transferred. It is sometimes called the body or the payload.\nA network interface may be associated with a physical device, or it may be a representation of a virtual interface. The \"loop-back\" device, which is a virtual interface to the local machine, is an example of this.\nSome low level protocols are TCP, UDP, IP, and ICMP. Some familiar examples of application layer protocols, built on these lower protocols, are HTTP (for accessing web content), SSH, TLS/SSL, and FTP.",
@@ -478,11 +507,12 @@
             "archived": false,
             "id": 10744183,
             "language": "Go",
-            "last_commit": "2026-08-27T11:27:02Z",
+            "last_commit": "2026-08-28T11:23:48Z",
             "owner": "netdata",
             "repo": "netdata",
-            "stars": 80320
-          }
+            "stars": 80331
+          },
+          "first_seen": "2026-08-28T13:18:11.765Z"
         },
         {
           "node_type": "item",
@@ -496,8 +526,9 @@
             "last_commit": "2026-02-28T16:30:21Z",
             "owner": "microsoft",
             "repo": "azuredatastudio",
-            "stars": 7686
-          }
+            "stars": 7685
+          },
+          "first_seen": "2026-08-28T13:18:11.765Z"
         },
         {
           "node_type": "item",
@@ -508,11 +539,12 @@
             "archived": false,
             "id": 22631422,
             "language": "Scala",
-            "last_commit": "2026-08-27T02:45:54Z",
+            "last_commit": "2026-08-28T00:45:35Z",
             "owner": "Netflix",
             "repo": "atlas",
             "stars": 3564
-          }
+          },
+          "first_seen": "2026-08-28T13:18:11.765Z"
         }
       ],
       "title": "SQL Tools and Databases"
@@ -535,7 +567,8 @@
                 "owner": "KDE",
                 "repo": "kwayland-server",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T13:18:11.765Z"
             },
             {
               "node_type": "item",
@@ -550,7 +583,8 @@
                 "owner": "NVIDIA",
                 "repo": "egl-wayland",
                 "stars": 329
-              }
+              },
+              "first_seen": "2026-08-28T13:18:11.765Z"
             },
             {
               "node_type": "item",
@@ -565,7 +599,8 @@
                 "owner": "NVIDIA",
                 "repo": "eglexternalplatform",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T13:18:11.765Z"
             },
             {
               "node_type": "item",
@@ -580,7 +615,8 @@
                 "owner": "swaywm",
                 "repo": "wlroots",
                 "stars": 2274
-              }
+              },
+              "first_seen": "2026-08-28T13:18:11.765Z"
             },
             {
               "node_type": "item",
@@ -595,7 +631,8 @@
                 "owner": "WayfireWM",
                 "repo": "wayfire",
                 "stars": 3040
-              }
+              },
+              "first_seen": "2026-08-28T13:18:11.765Z"
             },
             {
               "node_type": "item",
@@ -610,7 +647,8 @@
                 "owner": "sddm",
                 "repo": "sddm",
                 "stars": 2335
-              }
+              },
+              "first_seen": "2026-08-28T13:18:11.765Z"
             },
             {
               "node_type": "item",
@@ -625,7 +663,8 @@
                 "owner": "mviereck",
                 "repo": "x11docker",
                 "stars": 6303
-              }
+              },
+              "first_seen": "2026-08-28T13:18:11.765Z"
             },
             {
               "node_type": "item",
@@ -640,7 +679,8 @@
                 "owner": "emersion",
                 "repo": "mako",
                 "stars": 3231
-              }
+              },
+              "first_seen": "2026-08-28T13:18:11.765Z"
             },
             {
               "node_type": "item",
@@ -655,7 +695,8 @@
                 "owner": "Smithay",
                 "repo": "wayland-rs",
                 "stars": 1419
-              }
+              },
+              "first_seen": "2026-08-28T13:18:11.765Z"
             }
           ],
           "description": "Weston is a lightweight and functional Wayland compositor.\nXWayland is an X Server running as a Wayland client(for backwards compatibility), allowing the Xorg server can be modified to use wayland input devices for input and forward either the root window or individual top-level windows as wayland surfaces.\nGTK is a free and open source cross-platform widget toolkit for creating graphical user interfaces developed by GNOME Project. It is one of the most popular toolkits for the Wayland and X11 windowing.\nSway is an i3-compatible Wayland compositor.",
@@ -677,7 +718,8 @@
                 "owner": "mikeroyal",
                 "repo": "Qt-Guide",
                 "stars": 140
-              }
+              },
+              "first_seen": "2026-08-28T13:18:11.765Z"
             }
           ],
           "description": null,
@@ -689,7 +731,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:01:00.823Z",
+    "last_updated": "2026-08-28T13:18:11.765Z",
     "original_repository_info": {
       "archived": false,
       "id": 314692934,
