@@ -699,11 +699,11 @@
             "id": 81598961,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-13T05:59:43Z",
-            "open_issues": 9644,
+            "last_commit": "2026-09-13T23:01:59Z",
+            "open_issues": 9642,
             "owner": "python",
             "repo": "cpython",
-            "stars": 76864,
+            "stars": 77138,
             "topics": []
           },
           "first_seen": "2026-08-28T13:18:11.765Z"
@@ -720,11 +720,11 @@
             "id": 81598961,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-13T05:59:43Z",
-            "open_issues": 9644,
+            "last_commit": "2026-09-13T23:01:59Z",
+            "open_issues": 9642,
             "owner": "python",
             "repo": "cpython",
-            "stars": 76864,
+            "stars": 77138,
             "topics": []
           },
           "first_seen": "2026-08-28T13:18:11.765Z"
@@ -749,8 +749,8 @@
                 "id": 104416990,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-12T22:23:06Z",
-                "open_issues": 12,
+                "last_commit": "2026-09-14T01:38:27Z",
+                "open_issues": 13,
                 "owner": "curl",
                 "repo": "curl-fuzzer",
                 "stars": 99,
@@ -805,7 +805,7 @@
                 "open_issues": 338,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38503,
+                "stars": 38508,
                 "topics": [
                   "api",
                   "api-client",
@@ -903,7 +903,7 @@
                 "open_issues": 159,
                 "owner": "vi",
                 "repo": "websocat",
-                "stars": 8690,
+                "stars": 8692,
                 "topics": [
                   "cli",
                   "command-line",
@@ -943,11 +943,11 @@
             "id": 10744183,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-13T00:25:15Z",
-            "open_issues": 396,
+            "last_commit": "2026-09-14T04:53:33Z",
+            "open_issues": 398,
             "owner": "netdata",
             "repo": "netdata",
-            "stars": 80499,
+            "stars": 80510,
             "topics": [
               "ai",
               "alerting",
@@ -1069,7 +1069,7 @@
                 "open_issues": 51,
                 "owner": "NVIDIA",
                 "repo": "egl-wayland",
-                "stars": 329,
+                "stars": 330,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:18:11.765Z"
@@ -1131,8 +1131,8 @@
                 "id": 53142971,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-12T22:50:59Z",
-                "open_issues": 121,
+                "last_commit": "2026-09-13T18:24:04Z",
+                "open_issues": 122,
                 "owner": "WayfireWM",
                 "repo": "wayfire",
                 "stars": 3048,
@@ -1161,7 +1161,7 @@
                 "open_issues": 754,
                 "owner": "sddm",
                 "repo": "sddm",
-                "stars": 2348,
+                "stars": 2350,
                 "topics": [
                   "qml",
                   "qtquick",
@@ -1322,7 +1322,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T06:41:08.927Z",
+    "last_updated": "2026-09-14T06:53:13.592Z",
     "original_repository_info": {
       "archived": false,
       "description": "Qt Guide",
