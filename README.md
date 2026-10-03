@@ -251,9 +251,9 @@
 
 [Shiboken](https://doc.qt.io/qtforpython/shiboken6/index.html) is a fundamental piece on the Qt for Python project that serves two purposes:
 
-* [Generator](https://doc.qt.io/qtforpython/shiboken6/shibokengenerator.html): Extract information from C or C++ headers and generate [CPython](https://github.com/python/cpython) ⭐ 77,392 | 🐛 9,739 | 🌐 Python | 📅 2026-10-02 code that allow to bring C or C++ projects to Python. This process uses a library called [ApiExtractor](https://doc.qt.io/qtforpython/shiboken6/typesystem.html) which internally uses [Clang](https://clang.llvm.org/).
+* [Generator](https://doc.qt.io/qtforpython/shiboken6/shibokengenerator.html): Extract information from C or C++ headers and generate [CPython](https://github.com/python/cpython) ⭐ 77,392 | 🐛 9,740 | 🌐 Python | 📅 2026-10-02 code that allow to bring C or C++ projects to Python. This process uses a library called [ApiExtractor](https://doc.qt.io/qtforpython/shiboken6/typesystem.html) which internally uses [Clang](https://clang.llvm.org/).
 
-* [Module](https://doc.qt.io/qtforpython/shiboken6/shibokenmodule.html): An utility Python module that exposed new Python types, functions to handle pointers, among other things, that is written in [CPython](https://github.com/python/cpython) ⭐ 77,392 | 🐛 9,739 | 🌐 Python | 📅 2026-10-02 and can use independently of the generator.
+* [Module](https://doc.qt.io/qtforpython/shiboken6/shibokenmodule.html): An utility Python module that exposed new Python types, functions to handle pointers, among other things, that is written in [CPython](https://github.com/python/cpython) ⭐ 77,392 | 🐛 9,740 | 🌐 Python | 📅 2026-10-02 and can use independently of the generator.
 
 ## Framework Essentials and Add-ons
 
@@ -488,7 +488,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 * SQL API layer
 * User interface layer
 
-[Netdata](https://github.com/netdata/netdata) ⭐ 80,780 | 🐛 426 | 🌐 Go | 📅 2026-10-03 is high-fidelity infrastructure monitoring and troubleshooting, real-time monitoring Agent collects thousands of metrics from systems, hardware, containers, and applications with zero configuration. It runs permanently on all your physical/virtual servers, containers, cloud deployments, and edge/IoT devices, and is perfectly safe to install on your systems mid-incident without any preparation.
+[Netdata](https://github.com/netdata/netdata) ⭐ 80,783 | 🐛 426 | 🌐 Go | 📅 2026-10-03 is high-fidelity infrastructure monitoring and troubleshooting, real-time monitoring Agent collects thousands of metrics from systems, hardware, containers, and applications with zero configuration. It runs permanently on all your physical/virtual servers, containers, cloud deployments, and edge/IoT devices, and is perfectly safe to install on your systems mid-incident without any preparation.
 
 [Azure Data Studio](https://github.com/Microsoft/azuredatastudio) ⚠️ Archived is an open source data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.
 
