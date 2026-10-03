@@ -21,25 +21,25 @@
 
 # Table of Contents
 
-1. [Qt Learning Resources](https://github.com/mikeroyal/Qt-Guide#qt-learning-resources) ⭐ 140 | 🐛 0 | 🌐 C++ | 📅 2024-01-04
+1. [Qt Learning Resources](https://github.com/mikeroyal/Qt-Guide#qt-learning-resources)
 
-2. [Design Tools and Add-ons](https://github.com/mikeroyal/Qt-Guide#design-tools-and-add-ons) ⭐ 140 | 🐛 0 | 🌐 C++ | 📅 2024-01-04
+2. [Design Tools and Add-ons](https://github.com/mikeroyal/Qt-Guide#design-tools-and-add-ons)
 
-3. [Development Tools](https://github.com/mikeroyal/Qt-Guide#development-tools) ⭐ 140 | 🐛 0 | 🌐 C++ | 📅 2024-01-04
+3. [Development Tools](https://github.com/mikeroyal/Qt-Guide#development-tools)
 
-4. [Framework Essentials and Add-ons](https://github.com/mikeroyal/Qt-Guide#framework-essentials-and-add-ons) ⭐ 140 | 🐛 0 | 🌐 C++ | 📅 2024-01-04
+4. [Framework Essentials and Add-ons](https://github.com/mikeroyal/Qt-Guide#framework-essentials-and-add-ons)
 
-5. [Networking](https://github.com/mikeroyal/Qt-Guide#networking) ⭐ 140 | 🐛 0 | 🌐 C++ | 📅 2024-01-04
+5. [Networking](https://github.com/mikeroyal/Qt-Guide#networking)
 
-6. [Databases](https://github.com/mikeroyal/Qt-Guide#databases) ⭐ 140 | 🐛 0 | 🌐 C++ | 📅 2024-01-04
+6. [Databases](https://github.com/mikeroyal/Qt-Guide#databases)
 
-7. [KDE and the KDE Plasma Desktop](https://github.com/mikeroyal/Qt-Guide#kde-and-the-kde-plasma-desktop) ⭐ 140 | 🐛 0 | 🌐 C++ | 📅 2024-01-04
+7. [KDE and the KDE Plasma Desktop](https://github.com/mikeroyal/Qt-Guide#kde-and-the-kde-plasma-desktop)
 
-8. [Wayland Development](https://github.com/mikeroyal/Qt-Guide#wayland-development) ⭐ 140 | 🐛 0 | 🌐 C++ | 📅 2024-01-04
+8. [Wayland Development](https://github.com/mikeroyal/Qt-Guide#wayland-development)
 
 # Awesome Qt Learning Resources with stars
 
-[Back to the Top](https://github.com/mikeroyal/Qt-Guide#table-of-contents) ⭐ 140 | 🐛 0 | 🌐 C++ | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/Qt-Guide#table-of-contents)
 
 [Qt](https://www.qt.io/) is a framework that allowers developeres to create modern UIs & applications for multiple screens accross multiple platforms such as Linux, Windows, macOS, Android, and other embedded systems.
 
@@ -101,7 +101,7 @@
 
 ## Design Tools and Add-ons
 
-[Back to the Top](https://github.com/mikeroyal/Qt-Guide#table-of-contents) ⭐ 140 | 🐛 0 | 🌐 C++ | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/Qt-Guide#table-of-contents)
 
 [Qt Designer Studio](https://doc.qt.io/qtdesignstudio/index.html) is a set of UI design tools that can provide the look and feel of the UI from wireframe to final implementation with Qt's ready-made UI components. Designers can import UI design files from Adobe Photoshop, Sketch, Maya, MODO, or Blender to Qt Design Studio, which can turn them into code for your developers.
 
@@ -116,7 +116,7 @@
 
 [Qt Designer](https://doc.qt.io/qt-6/qtdesigner-manual.html) is the Qt tool for designing and building graphical user interfaces (GUIs) with [Qt Widgets](https://doc.qt.io/qt-6/qtwidgets-index.html).
 
-[Qt Shader Tools](https://doc.qt.io/qt-6/qtshadertools-index.html) is a module that builds on the SPIR-V Open Source Ecosystem as described at the [Khronos SPIR-V web site](https://www.khronos.org/spir/). For compiling into SPIR-V [glslang](https://github.com/KhronosGroup/glslang) ⭐ 3,589 | 🐛 404 | 🌐 C++ | 📅 2026-09-30 is used, while translating and reflecting is done via [SPIRV-Cross](https://github.com/KhronosGroup/SPIRV-Cross) ⭐ 2,521 | 🐛 148 | 🌐 GLSL | 📅 2026-09-28.
+[Qt Shader Tools](https://doc.qt.io/qt-6/qtshadertools-index.html) is a module that builds on the SPIR-V Open Source Ecosystem as described at the [Khronos SPIR-V web site](https://www.khronos.org/spir/). For compiling into SPIR-V [glslang](https://github.com/KhronosGroup/glslang) ⭐ 3,589 | 🐛 404 | 🌐 C++ | 📅 2026-09-30 is used, while translating and reflecting is done via [SPIRV-Cross](https://github.com/KhronosGroup/SPIRV-Cross) ⭐ 2,522 | 🐛 149 | 🌐 GLSL | 📅 2026-09-28.
 
 [QmlLive](https://doc.qt.io/qt-6/qtquick-tools-and-utilities.html#qmllive) is a 3rd party tool that offers a QML runtime capable of rendering changes to the code in realtime. It avoids the need to rebuild the application after every code change and install it on the target device. You can also extend it to build a custom runtime that suits your needs.
 
@@ -140,7 +140,7 @@
 
 ## Development Tools
 
-[Back to the Top](https://github.com/mikeroyal/Qt-Guide#table-of-contents) ⭐ 140 | 🐛 0 | 🌐 C++ | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/Qt-Guide#table-of-contents)
 
 [Qt Creator](https://doc.qt.io/qtcreator/index.html) is a cross-platform, complete integrated development environment (IDE) for application developers to create applications for multiple [desktop](https://doc.qt.io/qtcreator/creator-desktop-platforms.html), [embedded](https://doc.qt.io/qtcreator/creator-embedded-platforms.html), and [mobile device](https://doc.qt.io/qtcreator/creator-mobile-platforms.html) platforms, such as [Android](https://doc.qt.io/qt-6/android.html) and [iOS](https://doc.qt.io/qt-6/ios.html). It is available for [Linux](https://doc.qt.io/qtcreator/creator-desktop-platforms.html#linux), [macOS](https://doc.qt.io/qtcreator/creator-desktop-platforms.html#macos) and [Windows](https://doc.qt.io/qtcreator/creator-desktop-platforms.html#windows).
 
@@ -251,13 +251,13 @@
 
 [Shiboken](https://doc.qt.io/qtforpython/shiboken6/index.html) is a fundamental piece on the Qt for Python project that serves two purposes:
 
-* [Generator](https://doc.qt.io/qtforpython/shiboken6/shibokengenerator.html): Extract information from C or C++ headers and generate [CPython](https://github.com/python/cpython) ⭐ 77,383 | 🐛 9,735 | 🌐 Python | 📅 2026-10-02 code that allow to bring C or C++ projects to Python. This process uses a library called [ApiExtractor](https://doc.qt.io/qtforpython/shiboken6/typesystem.html) which internally uses [Clang](https://clang.llvm.org/).
+* [Generator](https://doc.qt.io/qtforpython/shiboken6/shibokengenerator.html): Extract information from C or C++ headers and generate [CPython](https://github.com/python/cpython) ⭐ 77,392 | 🐛 9,739 | 🌐 Python | 📅 2026-10-02 code that allow to bring C or C++ projects to Python. This process uses a library called [ApiExtractor](https://doc.qt.io/qtforpython/shiboken6/typesystem.html) which internally uses [Clang](https://clang.llvm.org/).
 
-* [Module](https://doc.qt.io/qtforpython/shiboken6/shibokenmodule.html): An utility Python module that exposed new Python types, functions to handle pointers, among other things, that is written in [CPython](https://github.com/python/cpython) ⭐ 77,383 | 🐛 9,735 | 🌐 Python | 📅 2026-10-02 and can use independently of the generator.
+* [Module](https://doc.qt.io/qtforpython/shiboken6/shibokenmodule.html): An utility Python module that exposed new Python types, functions to handle pointers, among other things, that is written in [CPython](https://github.com/python/cpython) ⭐ 77,392 | 🐛 9,739 | 🌐 Python | 📅 2026-10-02 and can use independently of the generator.
 
 ## Framework Essentials and Add-ons
 
-[Back to the Top](https://github.com/mikeroyal/Qt-Guide#table-of-contents) ⭐ 140 | 🐛 0 | 🌐 C++ | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/Qt-Guide#table-of-contents)
 
 [Qt Core](https://doc.qt.io/qt-6/qtcore-index.html) is a module that adds essential features to C++ such as:
 
@@ -337,7 +337,7 @@
 
 # Networking
 
-[Back to the Top](https://github.com/mikeroyal/Qt-Guide#table-of-contents) ⭐ 140 | 🐛 0 | 🌐 C++ | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/Qt-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/82833053-d1687b80-9e71-11ea-8c6d-074100f2f54b.png">
@@ -354,7 +354,7 @@
 
 [cURL Fuzzer](https://github.com/curl/curl-fuzzer) ⭐ 99 | 🐛 12 | 🌐 C++ | 📅 2026-10-02 is a quality assurance testing for the curl project.
 
-[DoH](https://github.com/curl/doh) ⭐ 431 | 🐛 6 | 🌐 C | 📅 2026-04-28 is a stand-alone application for DoH (DNS-over-HTTPS) name resolves and lookups.
+[DoH](https://github.com/curl/doh) ⭐ 430 | 🐛 6 | 🌐 C | 📅 2026-04-28 is a stand-alone application for DoH (DNS-over-HTTPS) name resolves and lookups.
 
 [Authelia](https://www.authelia.com/) is an open-source highly-available authentication server providing single sign-on capability and two-factor authentication to applications running behind [NGINX](https://nginx.org/en/).
 
@@ -364,13 +364,13 @@
 
 [Wireshark](https://www.wireshark.org/) is a very popular network protocol analyzer that is commonly used for network troubleshooting, analysis, and communications protocol development. Learn more about the other useful [Wireshark Tools](https://wiki.wireshark.org/Tools) available.
 
-[HTTPie](https://github.com/httpie/httpie) ⭐ 38,603 | 🐛 346 | 🌐 Python | 📅 2024-12-17 is a command-line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
+[HTTPie](https://github.com/httpie/httpie) ⭐ 38,607 | 🐛 346 | 🌐 Python | 📅 2024-12-17 is a command-line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
 
-[HTTPStat](https://github.com/reorx/httpstat) ⭐ 6,219 | 🐛 9 | 🌐 Python | 📅 2026-04-08 is a tool that visualizes curl statistics in a simple layout.
+[HTTPStat](https://github.com/reorx/httpstat) ⭐ 6,218 | 🐛 9 | 🌐 Python | 📅 2026-04-08 is a tool that visualizes curl statistics in a simple layout.
 
 [Wuzz](https://github.com/asciimoo/wuzz) ⭐ 10,737 | 🐛 41 | 🌐 Go | 📅 2026-08-04 is an interactive cli tool for HTTP inspection. It can be used to inspect/modify requests copied from the browser's network inspector with the "copy as cURL" feature.
 
-[Websocat](https://github.com/vi/websocat) ⭐ 8,702 | 🐛 159 | 🌐 Rust | 📅 2026-08-13 is a ommand-line client for WebSockets, like netcat (or curl) for ws\:// with advanced socat-like functions.
+[Websocat](https://github.com/vi/websocat) ⭐ 8,704 | 🐛 159 | 🌐 Rust | 📅 2026-08-13 is a ommand-line client for WebSockets, like netcat (or curl) for ws\:// with advanced socat-like functions.
 
 * Connection: In networking, a connection refers to pieces of related information that are transferred through a network. This generally infers that a connection is built before the data transfer (by following the procedures laid out in a protocol) and then is deconstructed at the at the end of the data transfer.
 
@@ -466,7 +466,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 # Databases
 
-[Back to the Top](https://github.com/mikeroyal/Qt-Guide#table-of-contents) ⭐ 140 | 🐛 0 | 🌐 C++ | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/Qt-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/119279004-daec0700-bbdd-11eb-9662-b1fc86ec8448.png">
@@ -488,7 +488,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 * SQL API layer
 * User interface layer
 
-[Netdata](https://github.com/netdata/netdata) ⭐ 80,776 | 🐛 427 | 🌐 Go | 📅 2026-10-02 is high-fidelity infrastructure monitoring and troubleshooting, real-time monitoring Agent collects thousands of metrics from systems, hardware, containers, and applications with zero configuration. It runs permanently on all your physical/virtual servers, containers, cloud deployments, and edge/IoT devices, and is perfectly safe to install on your systems mid-incident without any preparation.
+[Netdata](https://github.com/netdata/netdata) ⭐ 80,780 | 🐛 426 | 🌐 Go | 📅 2026-10-03 is high-fidelity infrastructure monitoring and troubleshooting, real-time monitoring Agent collects thousands of metrics from systems, hardware, containers, and applications with zero configuration. It runs permanently on all your physical/virtual servers, containers, cloud deployments, and edge/IoT devices, and is perfectly safe to install on your systems mid-incident without any preparation.
 
 [Azure Data Studio](https://github.com/Microsoft/azuredatastudio) ⚠️ Archived is an open source data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.
 
@@ -558,7 +558,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 # KDE and the KDE Plasma Desktop
 
-[Back to the Top](https://github.com/mikeroyal/Qt-Guide#table-of-contents) ⭐ 140 | 🐛 0 | 🌐 C++ | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/Qt-Guide#table-of-contents)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/45159366/161355802-089e9fb4-3164-4b4f-997d-c6d56a88c992.png">
@@ -600,7 +600,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 # Wayland Development
 
-[Back to the Top](https://github.com/mikeroyal/Qt-Guide#table-of-contents) ⭐ 140 | 🐛 0 | 🌐 C++ | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/Qt-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/104235197-79cf4e00-5409-11eb-97a6-a12f7bd8ad2a.png">
@@ -663,7 +663,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [KWayland](https://github.com/KDE/kwayland-server) ⭐ 12 | 🐛 0 | 🌐 C++ | 📅 2022-10-14 is a Qt-style API to interact with the wayland-client and wayland-server API.
 
-[NVIDIA Wayland EGL External Platform library](https://github.com/NVIDIA/egl-wayland) ⭐ 331 | 🐛 50 | 🌐 C | 📅 2026-09-27 is a work-in-progress implementation of a EGL External Platform library to add client-side Wayland support to EGL on top of EGLDevice and EGLStream families of extensions.
+[NVIDIA Wayland EGL External Platform library](https://github.com/NVIDIA/egl-wayland) ⭐ 331 | 🐛 52 | 🌐 C | 📅 2026-09-27 is a work-in-progress implementation of a EGL External Platform library to add client-side Wayland support to EGL on top of EGLDevice and EGLStream families of extensions.
 
 [NVIDIA EGL External Platform Interface](https://github.com/NVIDIA/eglexternalplatform) ⭐ 70 | 🐛 1 | 🌐 C | 📅 2025-03-26 is a work-in-progress specification of the EGL External Platform interface for writing EGL platforms and their interactions with modern window systems on top of existing low-level EGL platform implementations. This keeps window system implementation specifics out of EGL drivers by using application-facing EGL functions.
 
@@ -673,19 +673,19 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [wlroots](https://github.com/swaywm/wlroots) ⚠️ Archived is a modular Wayland compositor library.
 
-[WayfireWM](https://github.com/WayfireWM/wayfire) ⭐ 3,054 | 🐛 125 | 🌐 C++ | 📅 2026-09-26 is a 3D Wayland compositor, inspired by [Compiz](https://launchpad.net/compiz) and based on [wlroots](https://github.com/swaywm/wlroots) ⚠️ Archived.
+[WayfireWM](https://github.com/WayfireWM/wayfire) ⭐ 3,055 | 🐛 126 | 🌐 C++ | 📅 2026-09-26 is a 3D Wayland compositor, inspired by [Compiz](https://launchpad.net/compiz) and based on [wlroots](https://github.com/swaywm/wlroots) ⚠️ Archived.
 
-[SDDM](https://github.com/sddm/sddm) ⭐ 2,356 | 🐛 754 | 🌐 C++ | 📅 2026-08-19 is a modern display manager for X11 and Wayland aiming to be fast, simple and beautiful. It uses modern technologies like QtQuick, which in turn gives the designer the ability to create smooth, animated user interfaces.
+[SDDM](https://github.com/sddm/sddm) ⭐ 2,355 | 🐛 754 | 🌐 C++ | 📅 2026-08-19 is a modern display manager for X11 and Wayland aiming to be fast, simple and beautiful. It uses modern technologies like QtQuick, which in turn gives the designer the ability to create smooth, animated user interfaces.
 
-[x11docker](https://github.com/mviereck/x11docker) ⭐ 6,322 | 🐛 31 | 🌐 Shell | 📅 2026-07-05 is an application that you allows to run graphical desktop applications (and entire desktops) in Docker Linux containers.
+[x11docker](https://github.com/mviereck/x11docker) ⭐ 6,323 | 🐛 31 | 🌐 Shell | 📅 2026-07-05 is an application that you allows to run graphical desktop applications (and entire desktops) in Docker Linux containers.
 
 [Mako](https://github.com/emersion/mako) ⭐ 3,274 | 🐛 135 | 🌐 C | 📅 2026-06-30 is a lightweight notification daemon for Wayland. It also works on [Sway](https://swaywm.org/).
 
-[Wayland-rs](https://github.com/Smithay/wayland-rs) ⭐ 1,434 | 🐛 77 | 🌐 Rust | 📅 2026-09-29 is a Rust implementation of the wayland protocol (client and server).
+[Wayland-rs](https://github.com/Smithay/wayland-rs) ⭐ 1,434 | 🐛 78 | 🌐 Rust | 📅 2026-09-29 is a Rust implementation of the wayland protocol (client and server).
 
 ## Contribute
 
-* [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Qt-Guide/pulls) ⭐ 140 | 🐛 0 | 🌐 C++ | 📅 2024-01-04.
+* [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Qt-Guide/pulls).
 
 ## License
 
@@ -693,4 +693,4 @@ Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
