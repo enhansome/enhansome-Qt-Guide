@@ -251,9 +251,9 @@
 
 [Shiboken](https://doc.qt.io/qtforpython/shiboken6/index.html) is a fundamental piece on the Qt for Python project that serves two purposes:
 
-* [Generator](https://doc.qt.io/qtforpython/shiboken6/shibokengenerator.html): Extract information from C or C++ headers and generate [CPython](https://github.com/python/cpython) ⭐ 77,447 | 🐛 9,767 | 🌐 Python | 📅 2026-10-04 code that allow to bring C or C++ projects to Python. This process uses a library called [ApiExtractor](https://doc.qt.io/qtforpython/shiboken6/typesystem.html) which internally uses [Clang](https://clang.llvm.org/).
+* [Generator](https://doc.qt.io/qtforpython/shiboken6/shibokengenerator.html): Extract information from C or C++ headers and generate [CPython](https://github.com/python/cpython) ⭐ 77,493 | 🐛 9,772 | 🌐 Python | 📅 2026-10-05 code that allow to bring C or C++ projects to Python. This process uses a library called [ApiExtractor](https://doc.qt.io/qtforpython/shiboken6/typesystem.html) which internally uses [Clang](https://clang.llvm.org/).
 
-* [Module](https://doc.qt.io/qtforpython/shiboken6/shibokenmodule.html): An utility Python module that exposed new Python types, functions to handle pointers, among other things, that is written in [CPython](https://github.com/python/cpython) ⭐ 77,447 | 🐛 9,767 | 🌐 Python | 📅 2026-10-04 and can use independently of the generator.
+* [Module](https://doc.qt.io/qtforpython/shiboken6/shibokenmodule.html): An utility Python module that exposed new Python types, functions to handle pointers, among other things, that is written in [CPython](https://github.com/python/cpython) ⭐ 77,493 | 🐛 9,772 | 🌐 Python | 📅 2026-10-05 and can use independently of the generator.
 
 ## Framework Essentials and Add-ons
 
@@ -352,7 +352,7 @@
 
 [cURL](https://curl.se/) is a computer software project providing a library and command-line tool for transferring data using various network protocols(HTTP, HTTPS, FTP, FTPS, SCP, SFTP, TFTP, DICT, TELNET, LDAP LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP or SMTPS). cURL is also used in cars, television sets, routers, printers, audio equipment, mobile phones, tablets, settop boxes, media players and is the Internet transfer engine for thousands of software applications in over ten billion installations.
 
-[cURL Fuzzer](https://github.com/curl/curl-fuzzer) ⭐ 100 | 🐛 12 | 🌐 C++ | 📅 2026-10-02 is a quality assurance testing for the curl project.
+[cURL Fuzzer](https://github.com/curl/curl-fuzzer) ⭐ 100 | 🐛 13 | 🌐 C++ | 📅 2026-10-05 is a quality assurance testing for the curl project.
 
 [DoH](https://github.com/curl/doh) ⭐ 430 | 🐛 6 | 🌐 C | 📅 2026-04-28 is a stand-alone application for DoH (DNS-over-HTTPS) name resolves and lookups.
 
@@ -364,11 +364,11 @@
 
 [Wireshark](https://www.wireshark.org/) is a very popular network protocol analyzer that is commonly used for network troubleshooting, analysis, and communications protocol development. Learn more about the other useful [Wireshark Tools](https://wiki.wireshark.org/Tools) available.
 
-[HTTPie](https://github.com/httpie/httpie) ⭐ 38,651 | 🐛 345 | 🌐 Python | 📅 2024-12-17 is a command-line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
+[HTTPie](https://github.com/httpie/httpie) ⭐ 38,700 | 🐛 345 | 🌐 Python | 📅 2024-12-17 is a command-line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
 
 [HTTPStat](https://github.com/reorx/httpstat) ⭐ 6,218 | 🐛 9 | 🌐 Python | 📅 2026-04-08 is a tool that visualizes curl statistics in a simple layout.
 
-[Wuzz](https://github.com/asciimoo/wuzz) ⭐ 10,737 | 🐛 41 | 🌐 Go | 📅 2026-08-04 is an interactive cli tool for HTTP inspection. It can be used to inspect/modify requests copied from the browser's network inspector with the "copy as cURL" feature.
+[Wuzz](https://github.com/asciimoo/wuzz) ⭐ 10,737 | 🐛 42 | 🌐 Go | 📅 2026-08-04 is an interactive cli tool for HTTP inspection. It can be used to inspect/modify requests copied from the browser's network inspector with the "copy as cURL" feature.
 
 [Websocat](https://github.com/vi/websocat) ⭐ 8,706 | 🐛 159 | 🌐 Rust | 📅 2026-08-13 is a ommand-line client for WebSockets, like netcat (or curl) for ws\:// with advanced socat-like functions.
 
@@ -488,7 +488,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 * SQL API layer
 * User interface layer
 
-[Netdata](https://github.com/netdata/netdata) ⭐ 80,788 | 🐛 430 | 🌐 Go | 📅 2026-10-04 is high-fidelity infrastructure monitoring and troubleshooting, real-time monitoring Agent collects thousands of metrics from systems, hardware, containers, and applications with zero configuration. It runs permanently on all your physical/virtual servers, containers, cloud deployments, and edge/IoT devices, and is perfectly safe to install on your systems mid-incident without any preparation.
+[Netdata](https://github.com/netdata/netdata) ⭐ 80,794 | 🐛 431 | 🌐 Go | 📅 2026-10-05 is high-fidelity infrastructure monitoring and troubleshooting, real-time monitoring Agent collects thousands of metrics from systems, hardware, containers, and applications with zero configuration. It runs permanently on all your physical/virtual servers, containers, cloud deployments, and edge/IoT devices, and is perfectly safe to install on your systems mid-incident without any preparation.
 
 [Azure Data Studio](https://github.com/Microsoft/azuredatastudio) ⚠️ Archived is an open source data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.
 
@@ -673,15 +673,15 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [wlroots](https://github.com/swaywm/wlroots) ⚠️ Archived is a modular Wayland compositor library.
 
-[WayfireWM](https://github.com/WayfireWM/wayfire) ⭐ 3,056 | 🐛 125 | 🌐 C++ | 📅 2026-10-03 is a 3D Wayland compositor, inspired by [Compiz](https://launchpad.net/compiz) and based on [wlroots](https://github.com/swaywm/wlroots) ⚠️ Archived.
+[WayfireWM](https://github.com/WayfireWM/wayfire) ⭐ 3,057 | 🐛 126 | 🌐 C++ | 📅 2026-10-03 is a 3D Wayland compositor, inspired by [Compiz](https://launchpad.net/compiz) and based on [wlroots](https://github.com/swaywm/wlroots) ⚠️ Archived.
 
 [SDDM](https://github.com/sddm/sddm) ⭐ 2,354 | 🐛 754 | 🌐 C++ | 📅 2026-08-19 is a modern display manager for X11 and Wayland aiming to be fast, simple and beautiful. It uses modern technologies like QtQuick, which in turn gives the designer the ability to create smooth, animated user interfaces.
 
-[x11docker](https://github.com/mviereck/x11docker) ⭐ 6,323 | 🐛 31 | 🌐 Shell | 📅 2026-07-05 is an application that you allows to run graphical desktop applications (and entire desktops) in Docker Linux containers.
+[x11docker](https://github.com/mviereck/x11docker) ⭐ 6,324 | 🐛 31 | 🌐 Shell | 📅 2026-07-05 is an application that you allows to run graphical desktop applications (and entire desktops) in Docker Linux containers.
 
-[Mako](https://github.com/emersion/mako) ⭐ 3,274 | 🐛 135 | 🌐 C | 📅 2026-06-30 is a lightweight notification daemon for Wayland. It also works on [Sway](https://swaywm.org/).
+[Mako](https://github.com/emersion/mako) ⭐ 3,276 | 🐛 135 | 🌐 C | 📅 2026-06-30 is a lightweight notification daemon for Wayland. It also works on [Sway](https://swaywm.org/).
 
-[Wayland-rs](https://github.com/Smithay/wayland-rs) ⭐ 1,434 | 🐛 78 | 🌐 Rust | 📅 2026-09-29 is a Rust implementation of the wayland protocol (client and server).
+[Wayland-rs](https://github.com/Smithay/wayland-rs) ⭐ 1,435 | 🐛 77 | 🌐 Rust | 📅 2026-09-29 is a Rust implementation of the wayland protocol (client and server).
 
 ## Contribute
 
@@ -693,4 +693,4 @@ Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
