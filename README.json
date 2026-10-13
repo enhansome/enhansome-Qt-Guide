@@ -357,11 +357,11 @@
             "id": 81598961,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-12T07:45:04Z",
-            "open_issues": 9727,
+            "last_commit": "2026-10-13T08:12:32Z",
+            "open_issues": 9713,
             "owner": "python",
             "repo": "cpython",
-            "stars": 77612,
+            "stars": 77636,
             "topics": []
           },
           "first_seen": "2026-08-28T13:18:11.765Z"
@@ -378,11 +378,11 @@
             "id": 81598961,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-12T07:45:04Z",
-            "open_issues": 9727,
+            "last_commit": "2026-10-13T08:12:32Z",
+            "open_issues": 9713,
             "owner": "python",
             "repo": "cpython",
-            "stars": 77612,
+            "stars": 77636,
             "topics": []
           },
           "first_seen": "2026-08-28T13:18:11.765Z"
@@ -407,8 +407,8 @@
                 "id": 104416990,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-12T00:21:49Z",
-                "open_issues": 13,
+                "last_commit": "2026-10-12T23:13:00Z",
+                "open_issues": 17,
                 "owner": "curl",
                 "repo": "curl-fuzzer",
                 "stars": 100,
@@ -437,7 +437,7 @@
                 "open_issues": 6,
                 "owner": "curl",
                 "repo": "doh",
-                "stars": 430,
+                "stars": 431,
                 "topics": [
                   "dns-over-https",
                   "doh",
@@ -463,7 +463,7 @@
                 "open_issues": 348,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38753,
+                "stars": 38754,
                 "topics": [
                   "api",
                   "api-client",
@@ -505,7 +505,7 @@
                 "open_issues": 9,
                 "owner": "reorx",
                 "repo": "httpstat",
-                "stars": 6217,
+                "stars": 6218,
                 "topics": [
                   "cli",
                   "curl",
@@ -561,7 +561,7 @@
                 "open_issues": 159,
                 "owner": "vi",
                 "repo": "websocat",
-                "stars": 8719,
+                "stars": 8718,
                 "topics": [
                   "cli",
                   "command-line",
@@ -601,11 +601,11 @@
             "id": 10744183,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-12T06:59:41Z",
-            "open_issues": 445,
+            "last_commit": "2026-10-13T05:22:29Z",
+            "open_issues": 452,
             "owner": "netdata",
             "repo": "netdata",
-            "stars": 80890,
+            "stars": 80915,
             "topics": [
               "ai",
               "alerting",
@@ -793,7 +793,7 @@
                 "open_issues": 133,
                 "owner": "WayfireWM",
                 "repo": "wayfire",
-                "stars": 3060,
+                "stars": 3061,
                 "topics": [
                   "wayfire",
                   "wayland",
@@ -845,7 +845,7 @@
                 "open_issues": 31,
                 "owner": "mviereck",
                 "repo": "x11docker",
-                "stars": 6328,
+                "stars": 6329,
                 "topics": [
                   "containers",
                   "desktop",
@@ -884,10 +884,10 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2026-06-30T17:52:58Z",
-                "open_issues": 137,
+                "open_issues": 138,
                 "owner": "emersion",
                 "repo": "mako",
-                "stars": 3278,
+                "stars": 3279,
                 "topics": [
                   "cli",
                   "notifications",
@@ -931,7 +931,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T07:53:06.116Z",
+    "last_updated": "2026-10-13T08:18:39.772Z",
     "original_repository_info": {
       "archived": false,
       "description": "Qt Guide",
