@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "Furkanzmc",
             "repo": "QML-Coding-Guide",
-            "stars": 611,
+            "stars": 610,
             "topics": [
               "qml",
               "qt"
@@ -357,11 +357,11 @@
             "id": 81598961,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-18T04:12:51Z",
-            "open_issues": 9850,
+            "last_commit": "2026-10-19T06:39:36Z",
+            "open_issues": 9842,
             "owner": "python",
             "repo": "cpython",
-            "stars": 77671,
+            "stars": 77741,
             "topics": []
           },
           "first_seen": "2026-08-28T13:18:11.765Z"
@@ -378,11 +378,11 @@
             "id": 81598961,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-18T04:12:51Z",
-            "open_issues": 9850,
+            "last_commit": "2026-10-19T06:39:36Z",
+            "open_issues": 9842,
             "owner": "python",
             "repo": "cpython",
-            "stars": 77671,
+            "stars": 77741,
             "topics": []
           },
           "first_seen": "2026-08-28T13:18:11.765Z"
@@ -460,10 +460,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2024-12-17T17:30:35Z",
-                "open_issues": 350,
+                "open_issues": 351,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38655,
+                "stars": 38657,
                 "topics": [
                   "api",
                   "api-client",
@@ -561,7 +561,7 @@
                 "open_issues": 159,
                 "owner": "vi",
                 "repo": "websocat",
-                "stars": 8722,
+                "stars": 8723,
                 "topics": [
                   "cli",
                   "command-line",
@@ -601,11 +601,11 @@
             "id": 10744183,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-18T00:23:22Z",
-            "open_issues": 448,
+            "last_commit": "2026-10-19T00:23:17Z",
+            "open_issues": 452,
             "owner": "netdata",
             "repo": "netdata",
-            "stars": 80992,
+            "stars": 81014,
             "topics": [
               "ai",
               "alerting",
@@ -677,7 +677,7 @@
             "open_issues": 9,
             "owner": "Netflix",
             "repo": "atlas",
-            "stars": 3572,
+            "stars": 3574,
             "topics": []
           },
           "first_seen": "2026-08-28T13:18:11.765Z"
@@ -789,8 +789,8 @@
                 "id": 53142971,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-14T16:40:07Z",
-                "open_issues": 140,
+                "last_commit": "2026-10-18T16:47:16Z",
+                "open_issues": 137,
                 "owner": "WayfireWM",
                 "repo": "wayfire",
                 "stars": 3064,
@@ -819,7 +819,7 @@
                 "open_issues": 757,
                 "owner": "sddm",
                 "repo": "sddm",
-                "stars": 2359,
+                "stars": 2360,
                 "topics": [
                   "qml",
                   "qtquick",
@@ -887,7 +887,7 @@
                 "open_issues": 139,
                 "owner": "emersion",
                 "repo": "mako",
-                "stars": 3286,
+                "stars": 3288,
                 "topics": [
                   "cli",
                   "notifications",
@@ -913,7 +913,7 @@
                 "open_issues": 80,
                 "owner": "Smithay",
                 "repo": "wayland-rs",
-                "stars": 1440,
+                "stars": 1441,
                 "topics": [
                   "rust",
                   "wayland"
@@ -931,7 +931,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T06:29:07.023Z",
+    "last_updated": "2026-10-19T06:40:28.964Z",
     "original_repository_info": {
       "archived": false,
       "description": "Qt Guide",
