@@ -357,11 +357,11 @@
             "id": 81598961,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-19T06:39:36Z",
-            "open_issues": 9842,
+            "last_commit": "2026-10-20T04:51:02Z",
+            "open_issues": 9780,
             "owner": "python",
             "repo": "cpython",
-            "stars": 77741,
+            "stars": 77775,
             "topics": []
           },
           "first_seen": "2026-08-28T13:18:11.765Z"
@@ -378,11 +378,11 @@
             "id": 81598961,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-19T06:39:36Z",
-            "open_issues": 9842,
+            "last_commit": "2026-10-20T04:51:02Z",
+            "open_issues": 9780,
             "owner": "python",
             "repo": "cpython",
-            "stars": 77741,
+            "stars": 77775,
             "topics": []
           },
           "first_seen": "2026-08-28T13:18:11.765Z"
@@ -463,7 +463,7 @@
                 "open_issues": 351,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38657,
+                "stars": 38659,
                 "topics": [
                   "api",
                   "api-client",
@@ -505,7 +505,7 @@
                 "open_issues": 9,
                 "owner": "reorx",
                 "repo": "httpstat",
-                "stars": 6219,
+                "stars": 6220,
                 "topics": [
                   "cli",
                   "curl",
@@ -601,11 +601,11 @@
             "id": 10744183,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-19T00:23:17Z",
-            "open_issues": 452,
+            "last_commit": "2026-10-20T00:21:31Z",
+            "open_issues": 451,
             "owner": "netdata",
             "repo": "netdata",
-            "stars": 81014,
+            "stars": 81047,
             "topics": [
               "ai",
               "alerting",
@@ -647,7 +647,7 @@
             "open_issues": 2607,
             "owner": "microsoft",
             "repo": "azuredatastudio",
-            "stars": 7677,
+            "stars": 7678,
             "topics": [
               "azure",
               "azure-data-studio",
@@ -677,7 +677,7 @@
             "open_issues": 9,
             "owner": "Netflix",
             "repo": "atlas",
-            "stars": 3574,
+            "stars": 3576,
             "topics": []
           },
           "first_seen": "2026-08-28T13:18:11.765Z"
@@ -790,10 +790,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-10-18T16:47:16Z",
-                "open_issues": 137,
+                "open_issues": 136,
                 "owner": "WayfireWM",
                 "repo": "wayfire",
-                "stars": 3064,
+                "stars": 3065,
                 "topics": [
                   "wayfire",
                   "wayland",
@@ -819,7 +819,7 @@
                 "open_issues": 757,
                 "owner": "sddm",
                 "repo": "sddm",
-                "stars": 2360,
+                "stars": 2362,
                 "topics": [
                   "qml",
                   "qtquick",
@@ -845,7 +845,7 @@
                 "open_issues": 31,
                 "owner": "mviereck",
                 "repo": "x11docker",
-                "stars": 6335,
+                "stars": 6338,
                 "topics": [
                   "containers",
                   "desktop",
@@ -910,7 +910,7 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-10-17T04:30:44Z",
-                "open_issues": 80,
+                "open_issues": 81,
                 "owner": "Smithay",
                 "repo": "wayland-rs",
                 "stars": 1441,
@@ -931,7 +931,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T06:40:28.964Z",
+    "last_updated": "2026-10-20T06:27:20.028Z",
     "original_repository_info": {
       "archived": false,
       "description": "Qt Guide",
