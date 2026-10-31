@@ -357,11 +357,11 @@
             "id": 81598961,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-30T07:28:24Z",
-            "open_issues": 9215,
+            "last_commit": "2026-10-31T05:50:08Z",
+            "open_issues": 9240,
             "owner": "python",
             "repo": "cpython",
-            "stars": 77699,
+            "stars": 77733,
             "topics": []
           },
           "first_seen": "2026-08-28T13:18:11.765Z"
@@ -378,11 +378,11 @@
             "id": 81598961,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-30T07:28:24Z",
-            "open_issues": 9215,
+            "last_commit": "2026-10-31T05:50:08Z",
+            "open_issues": 9240,
             "owner": "python",
             "repo": "cpython",
-            "stars": 77699,
+            "stars": 77733,
             "topics": []
           },
           "first_seen": "2026-08-28T13:18:11.765Z"
@@ -463,7 +463,7 @@
                 "open_issues": 357,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38680,
+                "stars": 38687,
                 "topics": [
                   "api",
                   "api-client",
@@ -561,7 +561,7 @@
                 "open_issues": 161,
                 "owner": "vi",
                 "repo": "websocat",
-                "stars": 8737,
+                "stars": 8740,
                 "topics": [
                   "cli",
                   "command-line",
@@ -601,11 +601,11 @@
             "id": 10744183,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-30T06:02:52Z",
-            "open_issues": 458,
+            "last_commit": "2026-10-31T00:13:42Z",
+            "open_issues": 455,
             "owner": "netdata",
             "repo": "netdata",
-            "stars": 81222,
+            "stars": 81229,
             "topics": [
               "ai",
               "alerting",
@@ -647,7 +647,7 @@
             "open_issues": 2607,
             "owner": "microsoft",
             "repo": "azuredatastudio",
-            "stars": 7678,
+            "stars": 7679,
             "topics": [
               "azure",
               "azure-data-studio",
@@ -677,7 +677,7 @@
             "open_issues": 9,
             "owner": "Netflix",
             "repo": "atlas",
-            "stars": 3576,
+            "stars": 3578,
             "topics": []
           },
           "first_seen": "2026-08-28T13:18:11.765Z"
@@ -793,7 +793,7 @@
                 "open_issues": 128,
                 "owner": "WayfireWM",
                 "repo": "wayfire",
-                "stars": 3065,
+                "stars": 3066,
                 "topics": [
                   "wayfire",
                   "wayland",
@@ -816,10 +816,10 @@
                 "language": "C++",
                 "license": "GPL-2.0",
                 "last_commit": "2026-10-20T17:18:26Z",
-                "open_issues": 758,
+                "open_issues": 759,
                 "owner": "sddm",
                 "repo": "sddm",
-                "stars": 2371,
+                "stars": 2373,
                 "topics": [
                   "qml",
                   "qtquick",
@@ -887,7 +887,7 @@
                 "open_issues": 138,
                 "owner": "emersion",
                 "repo": "mako",
-                "stars": 3293,
+                "stars": 3294,
                 "topics": [
                   "cli",
                   "notifications",
@@ -913,7 +913,7 @@
                 "open_issues": 82,
                 "owner": "Smithay",
                 "repo": "wayland-rs",
-                "stars": 1445,
+                "stars": 1446,
                 "topics": [
                   "rust",
                   "wayland"
@@ -931,7 +931,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T07:39:51.452Z",
+    "last_updated": "2026-10-31T07:26:08.242Z",
     "original_repository_info": {
       "archived": false,
       "description": "Qt Guide",
