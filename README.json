@@ -357,11 +357,11 @@
             "id": 81598961,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-31T05:50:08Z",
-            "open_issues": 9240,
+            "last_commit": "2026-11-01T07:37:27Z",
+            "open_issues": 9229,
             "owner": "python",
             "repo": "cpython",
-            "stars": 77733,
+            "stars": 77768,
             "topics": []
           },
           "first_seen": "2026-08-28T13:18:11.765Z"
@@ -378,11 +378,11 @@
             "id": 81598961,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-31T05:50:08Z",
-            "open_issues": 9240,
+            "last_commit": "2026-11-01T07:37:27Z",
+            "open_issues": 9229,
             "owner": "python",
             "repo": "cpython",
-            "stars": 77733,
+            "stars": 77768,
             "topics": []
           },
           "first_seen": "2026-08-28T13:18:11.765Z"
@@ -407,8 +407,8 @@
                 "id": 104416990,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-29T22:59:53Z",
-                "open_issues": 15,
+                "last_commit": "2026-10-31T19:34:36Z",
+                "open_issues": 14,
                 "owner": "curl",
                 "repo": "curl-fuzzer",
                 "stars": 100,
@@ -460,7 +460,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2024-12-17T17:30:35Z",
-                "open_issues": 357,
+                "open_issues": 358,
                 "owner": "httpie",
                 "repo": "cli",
                 "stars": 38687,
@@ -505,7 +505,7 @@
                 "open_issues": 9,
                 "owner": "reorx",
                 "repo": "httpstat",
-                "stars": 6220,
+                "stars": 6221,
                 "topics": [
                   "cli",
                   "curl",
@@ -532,7 +532,7 @@
                 "open_issues": 42,
                 "owner": "asciimoo",
                 "repo": "wuzz",
-                "stars": 10742,
+                "stars": 10741,
                 "topics": [
                   "cli",
                   "curl",
@@ -601,11 +601,11 @@
             "id": 10744183,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-31T00:13:42Z",
+            "last_commit": "2026-11-01T07:01:24Z",
             "open_issues": 455,
             "owner": "netdata",
             "repo": "netdata",
-            "stars": 81229,
+            "stars": 81238,
             "topics": [
               "ai",
               "alerting",
@@ -677,7 +677,7 @@
             "open_issues": 9,
             "owner": "Netflix",
             "repo": "atlas",
-            "stars": 3578,
+            "stars": 3581,
             "topics": []
           },
           "first_seen": "2026-08-28T13:18:11.765Z"
@@ -819,7 +819,7 @@
                 "open_issues": 759,
                 "owner": "sddm",
                 "repo": "sddm",
-                "stars": 2373,
+                "stars": 2375,
                 "topics": [
                   "qml",
                   "qtquick",
@@ -842,7 +842,7 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-07-05T16:46:19Z",
-                "open_issues": 31,
+                "open_issues": 36,
                 "owner": "mviereck",
                 "repo": "x11docker",
                 "stars": 6342,
@@ -887,7 +887,7 @@
                 "open_issues": 138,
                 "owner": "emersion",
                 "repo": "mako",
-                "stars": 3294,
+                "stars": 3295,
                 "topics": [
                   "cli",
                   "notifications",
@@ -931,7 +931,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T07:26:08.242Z",
+    "last_updated": "2026-11-01T07:58:58.238Z",
     "original_repository_info": {
       "archived": false,
       "description": "Qt Guide",
