@@ -357,11 +357,11 @@
             "id": 81598961,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-03T08:23:28Z",
-            "open_issues": 9231,
+            "last_commit": "2026-11-04T05:55:13Z",
+            "open_issues": 9245,
             "owner": "python",
             "repo": "cpython",
-            "stars": 77803,
+            "stars": 77821,
             "topics": []
           },
           "first_seen": "2026-08-28T13:18:11.765Z"
@@ -378,11 +378,11 @@
             "id": 81598961,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-03T08:23:28Z",
-            "open_issues": 9231,
+            "last_commit": "2026-11-04T05:55:13Z",
+            "open_issues": 9245,
             "owner": "python",
             "repo": "cpython",
-            "stars": 77803,
+            "stars": 77821,
             "topics": []
           },
           "first_seen": "2026-08-28T13:18:11.765Z"
@@ -460,10 +460,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2024-12-17T17:30:35Z",
-                "open_issues": 360,
+                "open_issues": 362,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38688,
+                "stars": 38692,
                 "topics": [
                   "api",
                   "api-client",
@@ -561,7 +561,7 @@
                 "open_issues": 161,
                 "owner": "vi",
                 "repo": "websocat",
-                "stars": 8741,
+                "stars": 8742,
                 "topics": [
                   "cli",
                   "command-line",
@@ -601,11 +601,11 @@
             "id": 10744183,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-03T08:17:51Z",
+            "last_commit": "2026-11-04T07:36:28Z",
             "open_issues": 462,
             "owner": "netdata",
             "repo": "netdata",
-            "stars": 81258,
+            "stars": 81268,
             "topics": [
               "ai",
               "alerting",
@@ -647,7 +647,7 @@
             "open_issues": 2607,
             "owner": "microsoft",
             "repo": "azuredatastudio",
-            "stars": 7679,
+            "stars": 7676,
             "topics": [
               "azure",
               "azure-data-studio",
@@ -793,7 +793,7 @@
                 "open_issues": 128,
                 "owner": "WayfireWM",
                 "repo": "wayfire",
-                "stars": 3068,
+                "stars": 3070,
                 "topics": [
                   "wayfire",
                   "wayland",
@@ -845,7 +845,7 @@
                 "open_issues": 36,
                 "owner": "mviereck",
                 "repo": "x11docker",
-                "stars": 6343,
+                "stars": 6345,
                 "topics": [
                   "containers",
                   "desktop",
@@ -913,7 +913,7 @@
                 "open_issues": 82,
                 "owner": "Smithay",
                 "repo": "wayland-rs",
-                "stars": 1447,
+                "stars": 1450,
                 "topics": [
                   "rust",
                   "wayland"
@@ -931,7 +931,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T08:27:36.680Z",
+    "last_updated": "2026-11-04T07:54:56.677Z",
     "original_repository_info": {
       "archived": false,
       "description": "Qt Guide",
