@@ -357,11 +357,11 @@
             "id": 81598961,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-07T07:21:14Z",
-            "open_issues": 9264,
+            "last_commit": "2026-11-08T06:10:40Z",
+            "open_issues": 9269,
             "owner": "python",
             "repo": "cpython",
-            "stars": 78067,
+            "stars": 78092,
             "topics": []
           },
           "first_seen": "2026-08-28T13:18:11.765Z"
@@ -378,11 +378,11 @@
             "id": 81598961,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-07T07:21:14Z",
-            "open_issues": 9264,
+            "last_commit": "2026-11-08T06:10:40Z",
+            "open_issues": 9269,
             "owner": "python",
             "repo": "cpython",
-            "stars": 78067,
+            "stars": 78092,
             "topics": []
           },
           "first_seen": "2026-08-28T13:18:11.765Z"
@@ -463,7 +463,7 @@
                 "open_issues": 362,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38696,
+                "stars": 38699,
                 "topics": [
                   "api",
                   "api-client",
@@ -532,7 +532,7 @@
                 "open_issues": 42,
                 "owner": "asciimoo",
                 "repo": "wuzz",
-                "stars": 10741,
+                "stars": 10742,
                 "topics": [
                   "cli",
                   "curl",
@@ -601,11 +601,11 @@
             "id": 10744183,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-07T06:36:52Z",
-            "open_issues": 439,
+            "last_commit": "2026-11-08T00:14:57Z",
+            "open_issues": 448,
             "owner": "netdata",
             "repo": "netdata",
-            "stars": 81296,
+            "stars": 81299,
             "topics": [
               "ai",
               "alerting",
@@ -816,10 +816,10 @@
                 "language": "C++",
                 "license": "GPL-2.0",
                 "last_commit": "2026-10-20T17:18:26Z",
-                "open_issues": 761,
+                "open_issues": 762,
                 "owner": "sddm",
                 "repo": "sddm",
-                "stars": 2378,
+                "stars": 2381,
                 "topics": [
                   "qml",
                   "qtquick",
@@ -845,7 +845,7 @@
                 "open_issues": 37,
                 "owner": "mviereck",
                 "repo": "x11docker",
-                "stars": 6344,
+                "stars": 6343,
                 "topics": [
                   "containers",
                   "desktop",
@@ -931,7 +931,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T07:41:18.750Z",
+    "last_updated": "2026-11-08T07:51:08.396Z",
     "original_repository_info": {
       "archived": false,
       "description": "Qt Guide",
