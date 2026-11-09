@@ -357,11 +357,11 @@
             "id": 81598961,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-08T06:10:40Z",
-            "open_issues": 9269,
+            "last_commit": "2026-11-09T06:19:47Z",
+            "open_issues": 9270,
             "owner": "python",
             "repo": "cpython",
-            "stars": 78092,
+            "stars": 78116,
             "topics": []
           },
           "first_seen": "2026-08-28T13:18:11.765Z"
@@ -378,11 +378,11 @@
             "id": 81598961,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-08T06:10:40Z",
-            "open_issues": 9269,
+            "last_commit": "2026-11-09T06:19:47Z",
+            "open_issues": 9270,
             "owner": "python",
             "repo": "cpython",
-            "stars": 78092,
+            "stars": 78116,
             "topics": []
           },
           "first_seen": "2026-08-28T13:18:11.765Z"
@@ -407,8 +407,8 @@
                 "id": 104416990,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-06T01:52:00Z",
-                "open_issues": 20,
+                "last_commit": "2026-11-09T03:48:34Z",
+                "open_issues": 21,
                 "owner": "curl",
                 "repo": "curl-fuzzer",
                 "stars": 100,
@@ -463,7 +463,7 @@
                 "open_issues": 362,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38699,
+                "stars": 38700,
                 "topics": [
                   "api",
                   "api-client",
@@ -601,11 +601,11 @@
             "id": 10744183,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-08T00:14:57Z",
-            "open_issues": 448,
+            "last_commit": "2026-11-09T07:33:20Z",
+            "open_issues": 449,
             "owner": "netdata",
             "repo": "netdata",
-            "stars": 81299,
+            "stars": 81320,
             "topics": [
               "ai",
               "alerting",
@@ -677,7 +677,7 @@
             "open_issues": 12,
             "owner": "Netflix",
             "repo": "atlas",
-            "stars": 3586,
+            "stars": 3587,
             "topics": []
           },
           "first_seen": "2026-08-28T13:18:11.765Z"
@@ -793,7 +793,7 @@
                 "open_issues": 128,
                 "owner": "WayfireWM",
                 "repo": "wayfire",
-                "stars": 3072,
+                "stars": 3073,
                 "topics": [
                   "wayfire",
                   "wayland",
@@ -931,7 +931,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T07:51:08.396Z",
+    "last_updated": "2026-11-09T08:35:04.191Z",
     "original_repository_info": {
       "archived": false,
       "description": "Qt Guide",
