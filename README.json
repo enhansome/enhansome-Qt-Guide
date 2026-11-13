@@ -357,11 +357,11 @@
             "id": 81598961,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-12T08:39:33Z",
+            "last_commit": "2026-11-13T01:30:16Z",
             "open_issues": 9289,
             "owner": "python",
             "repo": "cpython",
-            "stars": 78177,
+            "stars": 78204,
             "topics": []
           },
           "first_seen": "2026-08-28T13:18:11.765Z"
@@ -378,11 +378,11 @@
             "id": 81598961,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-12T08:39:33Z",
+            "last_commit": "2026-11-13T01:30:16Z",
             "open_issues": 9289,
             "owner": "python",
             "repo": "cpython",
-            "stars": 78177,
+            "stars": 78204,
             "topics": []
           },
           "first_seen": "2026-08-28T13:18:11.765Z"
@@ -407,8 +407,8 @@
                 "id": 104416990,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-12T01:33:48Z",
-                "open_issues": 21,
+                "last_commit": "2026-11-12T23:32:34Z",
+                "open_issues": 18,
                 "owner": "curl",
                 "repo": "curl-fuzzer",
                 "stars": 100,
@@ -460,10 +460,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2024-12-17T17:30:35Z",
-                "open_issues": 362,
+                "open_issues": 361,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38711,
+                "stars": 38710,
                 "topics": [
                   "api",
                   "api-client",
@@ -532,7 +532,7 @@
                 "open_issues": 42,
                 "owner": "asciimoo",
                 "repo": "wuzz",
-                "stars": 10745,
+                "stars": 10744,
                 "topics": [
                   "cli",
                   "curl",
@@ -558,10 +558,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-11-12T00:47:09Z",
-                "open_issues": 156,
+                "open_issues": 157,
                 "owner": "vi",
                 "repo": "websocat",
-                "stars": 8756,
+                "stars": 8757,
                 "topics": [
                   "cli",
                   "command-line",
@@ -601,11 +601,11 @@
             "id": 10744183,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-12T08:31:03Z",
-            "open_issues": 457,
+            "last_commit": "2026-11-13T07:40:56Z",
+            "open_issues": 444,
             "owner": "netdata",
             "repo": "netdata",
-            "stars": 81379,
+            "stars": 81391,
             "topics": [
               "ai",
               "alerting",
@@ -673,11 +673,11 @@
             "id": 22631422,
             "language": "Scala",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-11T04:24:02Z",
-            "open_issues": 12,
+            "last_commit": "2026-11-12T16:18:27Z",
+            "open_issues": 10,
             "owner": "Netflix",
             "repo": "atlas",
-            "stars": 3587,
+            "stars": 3588,
             "topics": []
           },
           "first_seen": "2026-08-28T13:18:11.765Z"
@@ -819,7 +819,7 @@
                 "open_issues": 762,
                 "owner": "sddm",
                 "repo": "sddm",
-                "stars": 2383,
+                "stars": 2384,
                 "topics": [
                   "qml",
                   "qtquick",
@@ -845,7 +845,7 @@
                 "open_issues": 37,
                 "owner": "mviereck",
                 "repo": "x11docker",
-                "stars": 6344,
+                "stars": 6345,
                 "topics": [
                   "containers",
                   "desktop",
@@ -887,7 +887,7 @@
                 "open_issues": 141,
                 "owner": "emersion",
                 "repo": "mako",
-                "stars": 3304,
+                "stars": 3309,
                 "topics": [
                   "cli",
                   "notifications",
@@ -909,11 +909,11 @@
                 "id": 34106838,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-11-12T04:49:07Z",
+                "last_commit": "2026-11-13T01:23:13Z",
                 "open_issues": 82,
                 "owner": "Smithay",
                 "repo": "wayland-rs",
-                "stars": 1451,
+                "stars": 1452,
                 "topics": [
                   "rust",
                   "wayland"
@@ -931,7 +931,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T08:45:42.313Z",
+    "last_updated": "2026-11-13T08:39:07.385Z",
     "original_repository_info": {
       "archived": false,
       "description": "Qt Guide",
