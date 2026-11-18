@@ -116,7 +116,7 @@
 
 [Qt Designer](https://doc.qt.io/qt-6/qtdesigner-manual.html) is the Qt tool for designing and building graphical user interfaces (GUIs) with [Qt Widgets](https://doc.qt.io/qt-6/qtwidgets-index.html).
 
-[Qt Shader Tools](https://doc.qt.io/qt-6/qtshadertools-index.html) is a module that builds on the SPIR-V Open Source Ecosystem as described at the [Khronos SPIR-V web site](https://www.khronos.org/spir/). For compiling into SPIR-V [glslang](https://github.com/KhronosGroup/glslang) ⭐ 3,618 | 🐛 368 | 🌐 C++ | 📅 2026-11-17 is used, while translating and reflecting is done via [SPIRV-Cross](https://github.com/KhronosGroup/SPIRV-Cross) ⭐ 2,559 | 🐛 168 | 🌐 GLSL | 📅 2026-10-28.
+[Qt Shader Tools](https://doc.qt.io/qt-6/qtshadertools-index.html) is a module that builds on the SPIR-V Open Source Ecosystem as described at the [Khronos SPIR-V web site](https://www.khronos.org/spir/). For compiling into SPIR-V [glslang](https://github.com/KhronosGroup/glslang) ⭐ 3,617 | 🐛 368 | 🌐 C++ | 📅 2026-11-17 is used, while translating and reflecting is done via [SPIRV-Cross](https://github.com/KhronosGroup/SPIRV-Cross) ⭐ 2,558 | 🐛 170 | 🌐 GLSL | 📅 2026-10-28.
 
 [QmlLive](https://doc.qt.io/qt-6/qtquick-tools-and-utilities.html#qmllive) is a 3rd party tool that offers a QML runtime capable of rendering changes to the code in realtime. It avoids the need to rebuild the application after every code change and install it on the target device. You can also extend it to build a custom runtime that suits your needs.
 
@@ -251,9 +251,9 @@
 
 [Shiboken](https://doc.qt.io/qtforpython/shiboken6/index.html) is a fundamental piece on the Qt for Python project that serves two purposes:
 
-* [Generator](https://doc.qt.io/qtforpython/shiboken6/shibokengenerator.html): Extract information from C or C++ headers and generate [CPython](https://github.com/python/cpython) ⭐ 78,310 | 🐛 9,304 | 🌐 Python | 📅 2026-11-17 code that allow to bring C or C++ projects to Python. This process uses a library called [ApiExtractor](https://doc.qt.io/qtforpython/shiboken6/typesystem.html) which internally uses [Clang](https://clang.llvm.org/).
+* [Generator](https://doc.qt.io/qtforpython/shiboken6/shibokengenerator.html): Extract information from C or C++ headers and generate [CPython](https://github.com/python/cpython) ⭐ 78,384 | 🐛 9,323 | 🌐 Python | 📅 2026-11-18 code that allow to bring C or C++ projects to Python. This process uses a library called [ApiExtractor](https://doc.qt.io/qtforpython/shiboken6/typesystem.html) which internally uses [Clang](https://clang.llvm.org/).
 
-* [Module](https://doc.qt.io/qtforpython/shiboken6/shibokenmodule.html): An utility Python module that exposed new Python types, functions to handle pointers, among other things, that is written in [CPython](https://github.com/python/cpython) ⭐ 78,310 | 🐛 9,304 | 🌐 Python | 📅 2026-11-17 and can use independently of the generator.
+* [Module](https://doc.qt.io/qtforpython/shiboken6/shibokenmodule.html): An utility Python module that exposed new Python types, functions to handle pointers, among other things, that is written in [CPython](https://github.com/python/cpython) ⭐ 78,384 | 🐛 9,323 | 🌐 Python | 📅 2026-11-18 and can use independently of the generator.
 
 ## Framework Essentials and Add-ons
 
@@ -352,7 +352,7 @@
 
 [cURL](https://curl.se/) is a computer software project providing a library and command-line tool for transferring data using various network protocols(HTTP, HTTPS, FTP, FTPS, SCP, SFTP, TFTP, DICT, TELNET, LDAP LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP or SMTPS). cURL is also used in cars, television sets, routers, printers, audio equipment, mobile phones, tablets, settop boxes, media players and is the Internet transfer engine for thousands of software applications in over ten billion installations.
 
-[cURL Fuzzer](https://github.com/curl/curl-fuzzer) ⭐ 100 | 🐛 10 | 🌐 C++ | 📅 2026-11-16 is a quality assurance testing for the curl project.
+[cURL Fuzzer](https://github.com/curl/curl-fuzzer) ⭐ 100 | 🐛 11 | 🌐 C++ | 📅 2026-11-17 is a quality assurance testing for the curl project.
 
 [DoH](https://github.com/curl/doh) ⭐ 435 | 🐛 6 | 🌐 C | 📅 2026-04-28 is a stand-alone application for DoH (DNS-over-HTTPS) name resolves and lookups.
 
@@ -364,13 +364,13 @@
 
 [Wireshark](https://www.wireshark.org/) is a very popular network protocol analyzer that is commonly used for network troubleshooting, analysis, and communications protocol development. Learn more about the other useful [Wireshark Tools](https://wiki.wireshark.org/Tools) available.
 
-[HTTPie](https://github.com/httpie/httpie) ⭐ 38,722 | 🐛 364 | 🌐 Python | 📅 2024-12-17 is a command-line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
+[HTTPie](https://github.com/httpie/httpie) ⭐ 38,718 | 🐛 366 | 🌐 Python | 📅 2024-12-17 is a command-line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
 
 [HTTPStat](https://github.com/reorx/httpstat) ⭐ 6,223 | 🐛 9 | 🌐 Python | 📅 2026-04-08 is a tool that visualizes curl statistics in a simple layout.
 
-[Wuzz](https://github.com/asciimoo/wuzz) ⭐ 10,745 | 🐛 42 | 🌐 Go | 📅 2026-08-04 is an interactive cli tool for HTTP inspection. It can be used to inspect/modify requests copied from the browser's network inspector with the "copy as cURL" feature.
+[Wuzz](https://github.com/asciimoo/wuzz) ⭐ 10,746 | 🐛 42 | 🌐 Go | 📅 2026-08-04 is an interactive cli tool for HTTP inspection. It can be used to inspect/modify requests copied from the browser's network inspector with the "copy as cURL" feature.
 
-[Websocat](https://github.com/vi/websocat) ⭐ 8,758 | 🐛 158 | 🌐 Rust | 📅 2026-11-14 is a ommand-line client for WebSockets, like netcat (or curl) for ws\:// with advanced socat-like functions.
+[Websocat](https://github.com/vi/websocat) ⭐ 8,760 | 🐛 157 | 🌐 Rust | 📅 2026-11-18 is a ommand-line client for WebSockets, like netcat (or curl) for ws\:// with advanced socat-like functions.
 
 * Connection: In networking, a connection refers to pieces of related information that are transferred through a network. This generally infers that a connection is built before the data transfer (by following the procedures laid out in a protocol) and then is deconstructed at the at the end of the data transfer.
 
@@ -488,7 +488,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 * SQL API layer
 * User interface layer
 
-[Netdata](https://github.com/netdata/netdata) ⭐ 81,444 | 🐛 457 | 🌐 Go | 📅 2026-11-17 is high-fidelity infrastructure monitoring and troubleshooting, real-time monitoring Agent collects thousands of metrics from systems, hardware, containers, and applications with zero configuration. It runs permanently on all your physical/virtual servers, containers, cloud deployments, and edge/IoT devices, and is perfectly safe to install on your systems mid-incident without any preparation.
+[Netdata](https://github.com/netdata/netdata) ⭐ 81,461 | 🐛 457 | 🌐 Go | 📅 2026-11-18 is high-fidelity infrastructure monitoring and troubleshooting, real-time monitoring Agent collects thousands of metrics from systems, hardware, containers, and applications with zero configuration. It runs permanently on all your physical/virtual servers, containers, cloud deployments, and edge/IoT devices, and is perfectly safe to install on your systems mid-incident without any preparation.
 
 [Azure Data Studio](https://github.com/Microsoft/azuredatastudio) ⚠️ Archived is an open source data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.
 
@@ -663,7 +663,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [KWayland](https://github.com/KDE/kwayland-server) ⭐ 12 | 🐛 0 | 🌐 C++ | 📅 2022-10-14 is a Qt-style API to interact with the wayland-client and wayland-server API.
 
-[NVIDIA Wayland EGL External Platform library](https://github.com/NVIDIA/egl-wayland) ⭐ 331 | 🐛 54 | 🌐 C | 📅 2026-10-07 is a work-in-progress implementation of a EGL External Platform library to add client-side Wayland support to EGL on top of EGLDevice and EGLStream families of extensions.
+[NVIDIA Wayland EGL External Platform library](https://github.com/NVIDIA/egl-wayland) ⭐ 331 | 🐛 55 | 🌐 C | 📅 2026-10-07 is a work-in-progress implementation of a EGL External Platform library to add client-side Wayland support to EGL on top of EGLDevice and EGLStream families of extensions.
 
 [NVIDIA EGL External Platform Interface](https://github.com/NVIDIA/eglexternalplatform) ⭐ 70 | 🐛 1 | 🌐 C | 📅 2025-03-26 is a work-in-progress specification of the EGL External Platform interface for writing EGL platforms and their interactions with modern window systems on top of existing low-level EGL platform implementations. This keeps window system implementation specifics out of EGL drivers by using application-facing EGL functions.
 
@@ -673,7 +673,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [wlroots](https://github.com/swaywm/wlroots) ⚠️ Archived is a modular Wayland compositor library.
 
-[WayfireWM](https://github.com/WayfireWM/wayfire) ⭐ 3,078 | 🐛 134 | 🌐 C++ | 📅 2026-11-15 is a 3D Wayland compositor, inspired by [Compiz](https://launchpad.net/compiz) and based on [wlroots](https://github.com/swaywm/wlroots) ⚠️ Archived.
+[WayfireWM](https://github.com/WayfireWM/wayfire) ⭐ 3,078 | 🐛 135 | 🌐 C++ | 📅 2026-11-15 is a 3D Wayland compositor, inspired by [Compiz](https://launchpad.net/compiz) and based on [wlroots](https://github.com/swaywm/wlroots) ⚠️ Archived.
 
 [SDDM](https://github.com/sddm/sddm) ⭐ 2,385 | 🐛 762 | 🌐 C++ | 📅 2026-10-20 is a modern display manager for X11 and Wayland aiming to be fast, simple and beautiful. It uses modern technologies like QtQuick, which in turn gives the designer the ability to create smooth, animated user interfaces.
 
@@ -693,4 +693,4 @@ Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
