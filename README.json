@@ -49,7 +49,7 @@
             "open_issues": 52,
             "owner": "qmlnet",
             "repo": "qmlnet",
-            "stars": 1416,
+            "stars": 1415,
             "topics": [
               "charp",
               "mono",
@@ -357,11 +357,11 @@
             "id": 81598961,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-22T08:27:01Z",
-            "open_issues": 9381,
+            "last_commit": "2026-11-23T01:16:49Z",
+            "open_issues": 9379,
             "owner": "python",
             "repo": "cpython",
-            "stars": 78424,
+            "stars": 78478,
             "topics": []
           },
           "first_seen": "2026-08-28T13:18:11.765Z"
@@ -378,11 +378,11 @@
             "id": 81598961,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-22T08:27:01Z",
-            "open_issues": 9381,
+            "last_commit": "2026-11-23T01:16:49Z",
+            "open_issues": 9379,
             "owner": "python",
             "repo": "cpython",
-            "stars": 78424,
+            "stars": 78478,
             "topics": []
           },
           "first_seen": "2026-08-28T13:18:11.765Z"
@@ -463,7 +463,7 @@
                 "open_issues": 364,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38728,
+                "stars": 38731,
                 "topics": [
                   "api",
                   "api-client",
@@ -561,7 +561,7 @@
                 "open_issues": 157,
                 "owner": "vi",
                 "repo": "websocat",
-                "stars": 8760,
+                "stars": 8759,
                 "topics": [
                   "cli",
                   "command-line",
@@ -601,11 +601,11 @@
             "id": 10744183,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-22T08:33:54Z",
-            "open_issues": 471,
+            "last_commit": "2026-11-23T09:36:05Z",
+            "open_issues": 465,
             "owner": "netdata",
             "repo": "netdata",
-            "stars": 81580,
+            "stars": 81603,
             "topics": [
               "ai",
               "anomaly-detection",
@@ -674,7 +674,7 @@
             "language": "Scala",
             "license": "Apache-2.0",
             "last_commit": "2026-11-15T15:32:12Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "Netflix",
             "repo": "atlas",
             "stars": 3588,
@@ -790,10 +790,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-11-15T22:22:57Z",
-                "open_issues": 138,
+                "open_issues": 139,
                 "owner": "WayfireWM",
                 "repo": "wayfire",
-                "stars": 3080,
+                "stars": 3081,
                 "topics": [
                   "wayfire",
                   "wayland",
@@ -816,7 +816,7 @@
                 "language": "C++",
                 "license": "GPL-2.0",
                 "last_commit": "2026-11-18T13:36:26Z",
-                "open_issues": 762,
+                "open_issues": 763,
                 "owner": "sddm",
                 "repo": "sddm",
                 "stars": 2388,
@@ -845,7 +845,7 @@
                 "open_issues": 37,
                 "owner": "mviereck",
                 "repo": "x11docker",
-                "stars": 6345,
+                "stars": 6346,
                 "topics": [
                   "containers",
                   "desktop",
@@ -887,7 +887,7 @@
                 "open_issues": 142,
                 "owner": "emersion",
                 "repo": "mako",
-                "stars": 3315,
+                "stars": 3316,
                 "topics": [
                   "cli",
                   "notifications",
@@ -931,7 +931,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T08:41:04.652Z",
+    "last_updated": "2026-11-23T09:38:23.996Z",
     "original_repository_info": {
       "archived": false,
       "description": "Qt Guide",
